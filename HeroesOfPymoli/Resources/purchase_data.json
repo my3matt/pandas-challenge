@@ -1,0 +1,7022 @@
+[
+  {
+    "Purchase ID": 0,
+    "SN": "Lisim78",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 108,
+    "Item Name": "Extraction, Quickblade Of Trembling Hands",
+    "Price": 3.53
+  },
+  {
+    "Purchase ID": 1,
+    "SN": "Lisovynya38",
+    "Age": 40,
+    "Gender": "Male",
+    "Item ID": 143,
+    "Item Name": "Frenzied Scimitar",
+    "Price": 1.56
+  },
+  {
+    "Purchase ID": 2,
+    "SN": "Ithergue48",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 92,
+    "Item Name": "Final Critic",
+    "Price": 4.88
+  },
+  {
+    "Purchase ID": 3,
+    "SN": "Chamassasya86",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 100,
+    "Item Name": "Blindscythe",
+    "Price": 3.27
+  },
+  {
+    "Purchase ID": 4,
+    "SN": "Iskosia90",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 131,
+    "Item Name": "Fury",
+    "Price": 1.44
+  },
+  {
+    "Purchase ID": 5,
+    "SN": "Yalae81",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 81,
+    "Item Name": "Dreamkiss",
+    "Price": 3.61
+  },
+  {
+    "Purchase ID": 6,
+    "SN": "Itheria73",
+    "Age": 36,
+    "Gender": "Male",
+    "Item ID": 169,
+    "Item Name": "Interrogator, Blood Blade of the Queen",
+    "Price": 2.18
+  },
+  {
+    "Purchase ID": 7,
+    "SN": "Iskjaskst81",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 162,
+    "Item Name": "Abyssal Shard",
+    "Price": 2.67
+  },
+  {
+    "Purchase ID": 8,
+    "SN": "Undjask33",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 21,
+    "Item Name": "Souleater",
+    "Price": 1.1
+  },
+  {
+    "Purchase ID": 9,
+    "SN": "Chanosian48",
+    "Age": 35,
+    "Gender": "Other / Non-Disclosed",
+    "Item ID": 136,
+    "Item Name": "Ghastly Adamantite Protector",
+    "Price": 3.58
+  },
+  {
+    "Purchase ID": 10,
+    "SN": "Inguron55",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 95,
+    "Item Name": "Singed Onyx Warscythe",
+    "Price": 4.74
+  },
+  {
+    "Purchase ID": 11,
+    "SN": "Haisrisuir60",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 162,
+    "Item Name": "Abyssal Shard",
+    "Price": 2.67
+  },
+  {
+    "Purchase ID": 12,
+    "SN": "Saelaephos52",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 116,
+    "Item Name": "Renewed Skeletal Katana",
+    "Price": 4.18
+  },
+  {
+    "Purchase ID": 13,
+    "SN": "Assjaskan73",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 4,
+    "Item Name": "Bloodlord's Fetish",
+    "Price": 1.7
+  },
+  {
+    "Purchase ID": 14,
+    "SN": "Saesrideu94",
+    "Age": 35,
+    "Gender": "Male",
+    "Item ID": 165,
+    "Item Name": "Bone Crushing Silver Skewer",
+    "Price": 4.86
+  },
+  {
+    "Purchase ID": 15,
+    "SN": "Lisassa64",
+    "Age": 21,
+    "Gender": "Female",
+    "Item ID": 98,
+    "Item Name": "Deadline, Voice Of Subtlety",
+    "Price": 2.89
+  },
+  {
+    "Purchase ID": 16,
+    "SN": "Lisirra25",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 40,
+    "Item Name": "Second Chance",
+    "Price": 2.52
+  },
+  {
+    "Purchase ID": 17,
+    "SN": "Zontibe81",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 161,
+    "Item Name": "Devine",
+    "Price": 1.76
+  },
+  {
+    "Purchase ID": 18,
+    "SN": "Reunasu60",
+    "Age": 22,
+    "Gender": "Female",
+    "Item ID": 82,
+    "Item Name": "Nirvana",
+    "Price": 4.9
+  },
+  {
+    "Purchase ID": 19,
+    "SN": "Chamalo71",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 89,
+    "Item Name": "Blazefury, Protector of Delusions",
+    "Price": 4.64
+  },
+  {
+    "Purchase ID": 20,
+    "SN": "Iathenudil29",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 57,
+    "Item Name": "Despair, Favor of Due Diligence",
+    "Price": 4.6
+  },
+  {
+    "Purchase ID": 21,
+    "SN": "Phiarithdeu40",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 168,
+    "Item Name": "Sun Strike, Jaws of Twisted Visions",
+    "Price": 1.48
+  },
+  {
+    "Purchase ID": 22,
+    "SN": "Siarithria38",
+    "Age": 38,
+    "Gender": "Other / Non-Disclosed",
+    "Item ID": 24,
+    "Item Name": "Warped Fetish",
+    "Price": 3.81
+  },
+  {
+    "Purchase ID": 23,
+    "SN": "Eyrian71",
+    "Age": 40,
+    "Gender": "Male",
+    "Item ID": 151,
+    "Item Name": "Severance",
+    "Price": 3.4
+  },
+  {
+    "Purchase ID": 24,
+    "SN": "Siala43",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 141,
+    "Item Name": "Persuasion",
+    "Price": 3.19
+  },
+  {
+    "Purchase ID": 25,
+    "SN": "Lisirra87",
+    "Age": 29,
+    "Gender": "Male",
+    "Item ID": 178,
+    "Item Name": "Oathbreaker, Last Hope of the Breaking Storm",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 26,
+    "SN": "Lirtossa84",
+    "Age": 11,
+    "Gender": "Male",
+    "Item ID": 71,
+    "Item Name": "Demise",
+    "Price": 1.61
+  },
+  {
+    "Purchase ID": 27,
+    "SN": "Eusri44",
+    "Age": 7,
+    "Gender": "Male",
+    "Item ID": 96,
+    "Item Name": "Blood-Forged Skeletal Spine",
+    "Price": 3.09
+  },
+  {
+    "Purchase ID": 28,
+    "SN": "Aela59",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 119,
+    "Item Name": "Stormbringer, Dark Blade of Ending Misery",
+    "Price": 4.32
+  },
+  {
+    "Purchase ID": 29,
+    "SN": "Tyida79",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 37,
+    "Item Name": "Shadow Strike, Glory of Ending Hope",
+    "Price": 3.16
+  },
+  {
+    "Purchase ID": 30,
+    "SN": "Idai61",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 140,
+    "Item Name": "Striker",
+    "Price": 2.94
+  },
+  {
+    "Purchase ID": 31,
+    "SN": "Farusrian86",
+    "Age": 37,
+    "Gender": "Male",
+    "Item ID": 179,
+    "Item Name": "Wolf, Promise of the Moonwalker",
+    "Price": 4.48
+  },
+  {
+    "Purchase ID": 32,
+    "SN": "Aeralria27",
+    "Age": 10,
+    "Gender": "Male",
+    "Item ID": 133,
+    "Item Name": "Faith's Scimitar",
+    "Price": 4.09
+  },
+  {
+    "Purchase ID": 33,
+    "SN": "Haillyrgue51",
+    "Age": 7,
+    "Gender": "Male",
+    "Item ID": 44,
+    "Item Name": "Bonecarvin Battle Axe",
+    "Price": 2.38
+  },
+  {
+    "Purchase ID": 34,
+    "SN": "Sondim73",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 160,
+    "Item Name": "Azurewrath",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 35,
+    "SN": "Jeyciman68",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 53,
+    "Item Name": "Vengeance Cleaver",
+    "Price": 2.05
+  },
+  {
+    "Purchase ID": 36,
+    "SN": "Idaisuir85",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 76,
+    "Item Name": "Haunted Bronzed Bludgeon",
+    "Price": 3.15
+  },
+  {
+    "Purchase ID": 37,
+    "SN": "Seuthep89",
+    "Age": 8,
+    "Gender": "Male",
+    "Item ID": 73,
+    "Item Name": "Ritual Mace",
+    "Price": 2.05
+  },
+  {
+    "Purchase ID": 38,
+    "SN": "Reulae52",
+    "Age": 10,
+    "Gender": "Female",
+    "Item ID": 116,
+    "Item Name": "Renewed Skeletal Katana",
+    "Price": 4.18
+  },
+  {
+    "Purchase ID": 39,
+    "SN": "Sondilsaya62",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 172,
+    "Item Name": "Blade of the Grave",
+    "Price": 3.14
+  },
+  {
+    "Purchase ID": 40,
+    "SN": "Aerithriaphos45",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 143,
+    "Item Name": "Frenzied Scimitar",
+    "Price": 1.56
+  },
+  {
+    "Purchase ID": 41,
+    "SN": "Assosia88",
+    "Age": 20,
+    "Gender": "Female",
+    "Item ID": 7,
+    "Item Name": "Thorn, Satchel of Dark Souls",
+    "Price": 1.33
+  },
+  {
+    "Purchase ID": 42,
+    "SN": "Aidaillodeu39",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 72,
+    "Item Name": "Winter's Bite",
+    "Price": 3.77
+  },
+  {
+    "Purchase ID": 43,
+    "SN": "Aelly27",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 116,
+    "Item Name": "Renewed Skeletal Katana",
+    "Price": 4.18
+  },
+  {
+    "Purchase ID": 44,
+    "SN": "Tyeosri53",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 9,
+    "Item Name": "Thorn, Conqueror of the Corrupted",
+    "Price": 2.73
+  },
+  {
+    "Purchase ID": 45,
+    "SN": "Haerith37",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 181,
+    "Item Name": "Reaper's Toll",
+    "Price": 1.66
+  },
+  {
+    "Purchase ID": 46,
+    "SN": "Yasrisu92",
+    "Age": 27,
+    "Gender": "Male",
+    "Item ID": 102,
+    "Item Name": "Avenger",
+    "Price": 3.44
+  },
+  {
+    "Purchase ID": 47,
+    "SN": "Chanuchi25",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 170,
+    "Item Name": "Shadowsteel",
+    "Price": 3.97
+  },
+  {
+    "Purchase ID": 48,
+    "SN": "Asur96",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 138,
+    "Item Name": "Peacekeeper, Wit of Dark Magic",
+    "Price": 4.74
+  },
+  {
+    "Purchase ID": 49,
+    "SN": "Iaralrgue74",
+    "Age": 33,
+    "Gender": "Male",
+    "Item ID": 110,
+    "Item Name": "Suspension",
+    "Price": 1.44
+  },
+  {
+    "Purchase ID": 50,
+    "SN": "Saelaephos52",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 22,
+    "Item Name": "Amnesia",
+    "Price": 2.18
+  },
+  {
+    "Purchase ID": 51,
+    "SN": "Chanosia34",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 15,
+    "Item Name": "Soul Infused Crystal",
+    "Price": 2.96
+  },
+  {
+    "Purchase ID": 52,
+    "SN": "Aelin32",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 60,
+    "Item Name": "Wolf",
+    "Price": 3.54
+  },
+  {
+    "Purchase ID": 53,
+    "SN": "Ilosianya35",
+    "Age": 32,
+    "Gender": "Male",
+    "Item ID": 176,
+    "Item Name": "Relentless Iron Skewer",
+    "Price": 2.84
+  },
+  {
+    "Purchase ID": 54,
+    "SN": "Zhisrisu83",
+    "Age": 10,
+    "Gender": "Male",
+    "Item ID": 25,
+    "Item Name": "Hero Cane",
+    "Price": 4.35
+  },
+  {
+    "Purchase ID": 55,
+    "SN": "Phaelap26",
+    "Age": 25,
+    "Gender": "Female",
+    "Item ID": 84,
+    "Item Name": "Arcane Gem",
+    "Price": 3.79
+  },
+  {
+    "Purchase ID": 56,
+    "SN": "Raesty92",
+    "Age": 12,
+    "Gender": "Male",
+    "Item ID": 108,
+    "Item Name": "Extraction, Quickblade Of Trembling Hands",
+    "Price": 3.53
+  },
+  {
+    "Purchase ID": 57,
+    "SN": "Palyon91",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 80,
+    "Item Name": "Dreamsong",
+    "Price": 3.39
+  },
+  {
+    "Purchase ID": 58,
+    "SN": "Tyisur83",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 152,
+    "Item Name": "Darkheart",
+    "Price": 1.74
+  },
+  {
+    "Purchase ID": 59,
+    "SN": "Yaliru88",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 105,
+    "Item Name": "Hailstorm Shadowsteel Scythe",
+    "Price": 3.03
+  },
+  {
+    "Purchase ID": 60,
+    "SN": "Yadanu52",
+    "Age": 34,
+    "Gender": "Male",
+    "Item ID": 44,
+    "Item Name": "Bonecarvin Battle Axe",
+    "Price": 2.38
+  },
+  {
+    "Purchase ID": 61,
+    "SN": "Jiskimya77",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 178,
+    "Item Name": "Oathbreaker, Last Hope of the Breaking Storm",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 62,
+    "SN": "Yadaphos40",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 178,
+    "Item Name": "Oathbreaker, Last Hope of the Breaking Storm",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 63,
+    "SN": "Alo38",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 125,
+    "Item Name": "Whistling Mithril Warblade",
+    "Price": 1
+  },
+  {
+    "Purchase ID": 64,
+    "SN": "Phaena87",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 56,
+    "Item Name": "Foul Titanium Battle Axe",
+    "Price": 2.92
+  },
+  {
+    "Purchase ID": 65,
+    "SN": "Chamirraya83",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 34,
+    "Item Name": "Retribution Axe",
+    "Price": 2.22
+  },
+  {
+    "Purchase ID": 66,
+    "SN": "Chanastsda67",
+    "Age": 21,
+    "Gender": "Female",
+    "Item ID": 6,
+    "Item Name": "Rusty Skull",
+    "Price": 3.7
+  },
+  {
+    "Purchase ID": 67,
+    "SN": "Lisim78",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 138,
+    "Item Name": "Peacekeeper, Wit of Dark Magic",
+    "Price": 4.74
+  },
+  {
+    "Purchase ID": 68,
+    "SN": "Indonmol95",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 27,
+    "Item Name": "Riddle, Tribute of Ended Dreams",
+    "Price": 3.3
+  },
+  {
+    "Purchase ID": 69,
+    "SN": "Jiskossa61",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 37,
+    "Item Name": "Shadow Strike, Glory of Ending Hope",
+    "Price": 3.16
+  },
+  {
+    "Purchase ID": 70,
+    "SN": "Pheodai94",
+    "Age": 29,
+    "Gender": "Male",
+    "Item ID": 143,
+    "Item Name": "Frenzied Scimitar",
+    "Price": 1.56
+  },
+  {
+    "Purchase ID": 71,
+    "SN": "Hari50",
+    "Age": 20,
+    "Gender": "Female",
+    "Item ID": 29,
+    "Item Name": "Chaos, Ender of the End",
+    "Price": 1.98
+  },
+  {
+    "Purchase ID": 72,
+    "SN": "Marilsa69",
+    "Age": 25,
+    "Gender": "Female",
+    "Item ID": 178,
+    "Item Name": "Oathbreaker, Last Hope of the Breaking Storm",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 73,
+    "SN": "Assistasda42",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 68,
+    "Item Name": "Storm-Weaver, Slayer of Inception",
+    "Price": 4.32
+  },
+  {
+    "Purchase ID": 74,
+    "SN": "Lisosia93",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 89,
+    "Item Name": "Blazefury, Protector of Delusions",
+    "Price": 4.64
+  },
+  {
+    "Purchase ID": 75,
+    "SN": "Philodil43",
+    "Age": 33,
+    "Gender": "Male",
+    "Item ID": 124,
+    "Item Name": "Venom Claymore",
+    "Price": 1.29
+  },
+  {
+    "Purchase ID": 76,
+    "SN": "Mindadaran26",
+    "Age": 13,
+    "Gender": "Female",
+    "Item ID": 88,
+    "Item Name": "Emberling, Defender of Delusions",
+    "Price": 3.75
+  },
+  {
+    "Purchase ID": 77,
+    "SN": "Lirtosia63",
+    "Age": 34,
+    "Gender": "Male",
+    "Item ID": 20,
+    "Item Name": "Netherbane",
+    "Price": 3.27
+  },
+  {
+    "Purchase ID": 78,
+    "SN": "Haillyrgue51",
+    "Age": 7,
+    "Gender": "Male",
+    "Item ID": 50,
+    "Item Name": "Dawn",
+    "Price": 4.6
+  },
+  {
+    "Purchase ID": 79,
+    "SN": "Assjaskan56",
+    "Age": 26,
+    "Gender": "Male",
+    "Item ID": 15,
+    "Item Name": "Soul Infused Crystal",
+    "Price": 2.96
+  },
+  {
+    "Purchase ID": 80,
+    "SN": "Irithlis29",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 165,
+    "Item Name": "Bone Crushing Silver Skewer",
+    "Price": 4.86
+  },
+  {
+    "Purchase ID": 81,
+    "SN": "Heudai45",
+    "Age": 8,
+    "Gender": "Female",
+    "Item ID": 174,
+    "Item Name": "Primitive Blade",
+    "Price": 3.47
+  },
+  {
+    "Purchase ID": 82,
+    "SN": "Haerithp41",
+    "Age": 16,
+    "Gender": "Other / Non-Disclosed",
+    "Item ID": 160,
+    "Item Name": "Azurewrath",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 83,
+    "SN": "Aina42",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 12,
+    "Item Name": "Dawne",
+    "Price": 1.02
+  },
+  {
+    "Purchase ID": 84,
+    "SN": "Jiskjask60",
+    "Age": 21,
+    "Gender": "Female",
+    "Item ID": 34,
+    "Item Name": "Retribution Axe",
+    "Price": 2.22
+  },
+  {
+    "Purchase ID": 85,
+    "SN": "Umolrian85",
+    "Age": 32,
+    "Gender": "Female",
+    "Item ID": 33,
+    "Item Name": "Curved Axe",
+    "Price": 1.16
+  },
+  {
+    "Purchase ID": 86,
+    "SN": "Qarirwen82",
+    "Age": 33,
+    "Gender": "Male",
+    "Item ID": 129,
+    "Item Name": "Fate, Vengeance of Eternal Justice",
+    "Price": 1.54
+  },
+  {
+    "Purchase ID": 87,
+    "SN": "Aelin32",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 151,
+    "Item Name": "Severance",
+    "Price": 3.4
+  },
+  {
+    "Purchase ID": 88,
+    "SN": "Laedallo55",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 82,
+    "Item Name": "Nirvana",
+    "Price": 4.9
+  },
+  {
+    "Purchase ID": 89,
+    "SN": "Eoralrap26",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 17,
+    "Item Name": "Lazarus, Terror of the Earth",
+    "Price": 1.7
+  },
+  {
+    "Purchase ID": 90,
+    "SN": "Undosian34",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 60,
+    "Item Name": "Wolf",
+    "Price": 3.54
+  },
+  {
+    "Purchase ID": 91,
+    "SN": "Chadolyla44",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 59,
+    "Item Name": "Lightning, Etcher of the King",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 92,
+    "SN": "Chadistaya75",
+    "Age": 21,
+    "Gender": "Female",
+    "Item ID": 39,
+    "Item Name": "Betrayal, Whisper of Grieving Widows",
+    "Price": 3.94
+  },
+  {
+    "Purchase ID": 93,
+    "SN": "Yathedeu43",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 88,
+    "Item Name": "Emberling, Defender of Delusions",
+    "Price": 3.75
+  },
+  {
+    "Purchase ID": 94,
+    "SN": "Aina43",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 96,
+    "Item Name": "Blood-Forged Skeletal Spine",
+    "Price": 3.09
+  },
+  {
+    "Purchase ID": 95,
+    "SN": "Ilassast39",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 164,
+    "Item Name": "Exiled Doomblade",
+    "Price": 1.63
+  },
+  {
+    "Purchase ID": 96,
+    "SN": "Lisassala98",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 56,
+    "Item Name": "Foul Titanium Battle Axe",
+    "Price": 2.92
+  },
+  {
+    "Purchase ID": 97,
+    "SN": "Aiduecal76",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 134,
+    "Item Name": "Undead Crusader",
+    "Price": 4.5
+  },
+  {
+    "Purchase ID": 98,
+    "SN": "Chadossa89",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 141,
+    "Item Name": "Persuasion",
+    "Price": 3.19
+  },
+  {
+    "Purchase ID": 99,
+    "SN": "Haisrisuir60",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 101,
+    "Item Name": "Final Critic",
+    "Price": 4.19
+  },
+  {
+    "Purchase ID": 100,
+    "SN": "Pheodaisun84",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 12,
+    "Item Name": "Dawne",
+    "Price": 1.02
+  },
+  {
+    "Purchase ID": 101,
+    "SN": "Heollyriap59",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 174,
+    "Item Name": "Primitive Blade",
+    "Price": 3.47
+  },
+  {
+    "Purchase ID": 102,
+    "SN": "Maropast28",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 109,
+    "Item Name": "Downfall, Scalpel Of The Emperor",
+    "Price": 4.76
+  },
+  {
+    "Purchase ID": 103,
+    "SN": "Frichim77",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 7,
+    "Item Name": "Thorn, Satchel of Dark Souls",
+    "Price": 1.33
+  },
+  {
+    "Purchase ID": 104,
+    "SN": "Thryallym62",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 53,
+    "Item Name": "Vengeance Cleaver",
+    "Price": 2.05
+  },
+  {
+    "Purchase ID": 105,
+    "SN": "Eulanurin88",
+    "Age": 27,
+    "Gender": "Male",
+    "Item ID": 10,
+    "Item Name": "Sleepwalker",
+    "Price": 1.79
+  },
+  {
+    "Purchase ID": 106,
+    "SN": "Lassjaskan73",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 54,
+    "Item Name": "Eternal Cleaver",
+    "Price": 2.5
+  },
+  {
+    "Purchase ID": 107,
+    "SN": "Tyaerith73",
+    "Age": 36,
+    "Gender": "Male",
+    "Item ID": 99,
+    "Item Name": "Expiration, Warscythe Of Lost Worlds",
+    "Price": 1.71
+  },
+  {
+    "Purchase ID": 108,
+    "SN": "Sondadarya58",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 85,
+    "Item Name": "Malificent Bag",
+    "Price": 1.75
+  },
+  {
+    "Purchase ID": 109,
+    "SN": "Hirirap39",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 33,
+    "Item Name": "Curved Axe",
+    "Price": 1.16
+  },
+  {
+    "Purchase ID": 110,
+    "SN": "Ririp86",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 139,
+    "Item Name": "Mercy, Katana of Dismay",
+    "Price": 4.94
+  },
+  {
+    "Purchase ID": 111,
+    "SN": "Sundim98",
+    "Age": 21,
+    "Gender": "Other / Non-Disclosed",
+    "Item ID": 41,
+    "Item Name": "Orbit",
+    "Price": 4.75
+  },
+  {
+    "Purchase ID": 112,
+    "SN": "Iskichinya81",
+    "Age": 21,
+    "Gender": "Female",
+    "Item ID": 7,
+    "Item Name": "Thorn, Satchel of Dark Souls",
+    "Price": 1.33
+  },
+  {
+    "Purchase ID": 113,
+    "SN": "Phyali88",
+    "Age": 15,
+    "Gender": "Female",
+    "Item ID": 140,
+    "Item Name": "Striker",
+    "Price": 2.94
+  },
+  {
+    "Purchase ID": 114,
+    "SN": "Undirrala66",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 150,
+    "Item Name": "Deathraze",
+    "Price": 2.85
+  },
+  {
+    "Purchase ID": 115,
+    "SN": "Nitherian58",
+    "Age": 28,
+    "Gender": "Male",
+    "Item ID": 13,
+    "Item Name": "Serenity",
+    "Price": 1.41
+  },
+  {
+    "Purchase ID": 116,
+    "SN": "Lassilsala30",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 139,
+    "Item Name": "Mercy, Katana of Dismay",
+    "Price": 4.94
+  },
+  {
+    "Purchase ID": 117,
+    "SN": "Frichaststa61",
+    "Age": 21,
+    "Gender": "Female",
+    "Item ID": 117,
+    "Item Name": "Heartstriker, Legacy of the Light",
+    "Price": 1.79
+  },
+  {
+    "Purchase ID": 118,
+    "SN": "Pheodaisun84",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 78,
+    "Item Name": "Glimmer, Ender of the Moon",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 119,
+    "SN": "Frichosia58",
+    "Age": 15,
+    "Gender": "Female",
+    "Item ID": 87,
+    "Item Name": "Deluge, Edge of the West",
+    "Price": 4.43
+  },
+  {
+    "Purchase ID": 120,
+    "SN": "Lisosia93",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 24,
+    "Item Name": "Warped Fetish",
+    "Price": 3.81
+  },
+  {
+    "Purchase ID": 121,
+    "SN": "Ilosia37",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 1,
+    "Item Name": "Crucifer",
+    "Price": 3.26
+  },
+  {
+    "Purchase ID": 122,
+    "SN": "Lisista27",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 174,
+    "Item Name": "Primitive Blade",
+    "Price": 3.47
+  },
+  {
+    "Purchase ID": 123,
+    "SN": "Seudaillorap38",
+    "Age": 27,
+    "Gender": "Male",
+    "Item ID": 81,
+    "Item Name": "Dreamkiss",
+    "Price": 3.61
+  },
+  {
+    "Purchase ID": 124,
+    "SN": "Aesty53",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 150,
+    "Item Name": "Deathraze",
+    "Price": 2.85
+  },
+  {
+    "Purchase ID": 125,
+    "SN": "Yathecal82",
+    "Age": 20,
+    "Gender": "Female",
+    "Item ID": 62,
+    "Item Name": "Piece Maker",
+    "Price": 1.87
+  },
+  {
+    "Purchase ID": 126,
+    "SN": "Frichim77",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 75,
+    "Item Name": "Brutality Ivory Warmace",
+    "Price": 2.42
+  },
+  {
+    "Purchase ID": 127,
+    "SN": "Lisossanya98",
+    "Age": 37,
+    "Gender": "Male",
+    "Item ID": 102,
+    "Item Name": "Avenger",
+    "Price": 3.44
+  },
+  {
+    "Purchase ID": 128,
+    "SN": "Iral74",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 58,
+    "Item Name": "Freak's Bite, Favor of Holy Might",
+    "Price": 4.14
+  },
+  {
+    "Purchase ID": 129,
+    "SN": "Lisast87",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 74,
+    "Item Name": "Yearning Crusher",
+    "Price": 4.18
+  },
+  {
+    "Purchase ID": 130,
+    "SN": "Maridisya31",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 120,
+    "Item Name": "Agatha",
+    "Price": 3.08
+  },
+  {
+    "Purchase ID": 131,
+    "SN": "Jiskassa76",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 62,
+    "Item Name": "Piece Maker",
+    "Price": 1.87
+  },
+  {
+    "Purchase ID": 132,
+    "SN": "Inguron55",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 145,
+    "Item Name": "Fiery Glass Crusader",
+    "Price": 4.58
+  },
+  {
+    "Purchase ID": 133,
+    "SN": "Phaena87",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 0,
+    "Item Name": "Splinter",
+    "Price": 1.28
+  },
+  {
+    "Purchase ID": 134,
+    "SN": "Phyali88",
+    "Age": 15,
+    "Gender": "Female",
+    "Item ID": 2,
+    "Item Name": "Verdict",
+    "Price": 2.48
+  },
+  {
+    "Purchase ID": 135,
+    "SN": "Ethriel85",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 146,
+    "Item Name": "Warped Iron Scimitar",
+    "Price": 3.1
+  },
+  {
+    "Purchase ID": 136,
+    "SN": "Iskirra45",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 105,
+    "Item Name": "Hailstorm Shadowsteel Scythe",
+    "Price": 3.03
+  },
+  {
+    "Purchase ID": 137,
+    "SN": "Iri67",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 179,
+    "Item Name": "Wolf, Promise of the Moonwalker",
+    "Price": 4.48
+  },
+  {
+    "Purchase ID": 138,
+    "SN": "Rarallo90",
+    "Age": 33,
+    "Gender": "Male",
+    "Item ID": 136,
+    "Item Name": "Ghastly Adamantite Protector",
+    "Price": 3.58
+  },
+  {
+    "Purchase ID": 139,
+    "SN": "Lisasi93",
+    "Age": 13,
+    "Gender": "Male",
+    "Item ID": 158,
+    "Item Name": "Darkheart, Butcher of the Champion",
+    "Price": 2.45
+  },
+  {
+    "Purchase ID": 140,
+    "SN": "Hari50",
+    "Age": 20,
+    "Gender": "Female",
+    "Item ID": 8,
+    "Item Name": "Purgatory, Gem of Regret",
+    "Price": 3.93
+  },
+  {
+    "Purchase ID": 141,
+    "SN": "Zhisrisu83",
+    "Age": 10,
+    "Gender": "Male",
+    "Item ID": 60,
+    "Item Name": "Wolf",
+    "Price": 3.54
+  },
+  {
+    "Purchase ID": 142,
+    "SN": "Adastirin33",
+    "Age": 35,
+    "Gender": "Female",
+    "Item ID": 175,
+    "Item Name": "Woeful Adamantite Claymore",
+    "Price": 4.48
+  },
+  {
+    "Purchase ID": 143,
+    "SN": "Eyista89",
+    "Age": 34,
+    "Gender": "Male",
+    "Item ID": 124,
+    "Item Name": "Venom Claymore",
+    "Price": 1.29
+  },
+  {
+    "Purchase ID": 144,
+    "SN": "Ili43",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 22,
+    "Item Name": "Amnesia",
+    "Price": 2.18
+  },
+  {
+    "Purchase ID": 145,
+    "SN": "Chamirra53",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 46,
+    "Item Name": "Hopeless Ebon Dualblade",
+    "Price": 1.33
+  },
+  {
+    "Purchase ID": 146,
+    "SN": "Aidaillodeu39",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 133,
+    "Item Name": "Faith's Scimitar",
+    "Price": 4.09
+  },
+  {
+    "Purchase ID": 147,
+    "SN": "Hailaphos89",
+    "Age": 35,
+    "Gender": "Male",
+    "Item ID": 24,
+    "Item Name": "Warped Fetish",
+    "Price": 3.81
+  },
+  {
+    "Purchase ID": 148,
+    "SN": "Iskadarya95",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 148,
+    "Item Name": "Warmonger, Gift of Suffering's End",
+    "Price": 4.03
+  },
+  {
+    "Purchase ID": 149,
+    "SN": "Qilatista90",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 161,
+    "Item Name": "Devine",
+    "Price": 1.76
+  },
+  {
+    "Purchase ID": 150,
+    "SN": "Inasti31",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 0,
+    "Item Name": "Splinter",
+    "Price": 1.28
+  },
+  {
+    "Purchase ID": 151,
+    "SN": "Marilsanya48",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 105,
+    "Item Name": "Hailstorm Shadowsteel Scythe",
+    "Price": 3.03
+  },
+  {
+    "Purchase ID": 152,
+    "SN": "Marjask87",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 110,
+    "Item Name": "Suspension",
+    "Price": 1.44
+  },
+  {
+    "Purchase ID": 153,
+    "SN": "Chanjaskan89",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 164,
+    "Item Name": "Exiled Doomblade",
+    "Price": 1.63
+  },
+  {
+    "Purchase ID": 154,
+    "SN": "Hyaduesu61",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 59,
+    "Item Name": "Lightning, Etcher of the King",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 155,
+    "SN": "Aillyrin83",
+    "Age": 10,
+    "Gender": "Female",
+    "Item ID": 98,
+    "Item Name": "Deadline, Voice Of Subtlety",
+    "Price": 2.89
+  },
+  {
+    "Purchase ID": 156,
+    "SN": "Eyrian71",
+    "Age": 40,
+    "Gender": "Male",
+    "Item ID": 117,
+    "Item Name": "Heartstriker, Legacy of the Light",
+    "Price": 1.79
+  },
+  {
+    "Purchase ID": 157,
+    "SN": "Marast30",
+    "Age": 18,
+    "Gender": "Female",
+    "Item ID": 108,
+    "Item Name": "Extraction, Quickblade Of Trembling Hands",
+    "Price": 3.53
+  },
+  {
+    "Purchase ID": 158,
+    "SN": "Sundadar27",
+    "Age": 31,
+    "Gender": "Male",
+    "Item ID": 111,
+    "Item Name": "Misery's End",
+    "Price": 4.89
+  },
+  {
+    "Purchase ID": 159,
+    "SN": "Tyaelorap29",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 39,
+    "Item Name": "Betrayal, Whisper of Grieving Widows",
+    "Price": 3.94
+  },
+  {
+    "Purchase ID": 160,
+    "SN": "Lirtimst73",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 44,
+    "Item Name": "Bonecarvin Battle Axe",
+    "Price": 2.38
+  },
+  {
+    "Purchase ID": 161,
+    "SN": "Iri67",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 3,
+    "Item Name": "Phantomlight",
+    "Price": 2.49
+  },
+  {
+    "Purchase ID": 162,
+    "SN": "Styaduen40",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 181,
+    "Item Name": "Reaper's Toll",
+    "Price": 1.66
+  },
+  {
+    "Purchase ID": 163,
+    "SN": "Sidap51",
+    "Age": 11,
+    "Gender": "Male",
+    "Item ID": 65,
+    "Item Name": "Conqueror Adamantite Mace",
+    "Price": 4.24
+  },
+  {
+    "Purchase ID": 164,
+    "SN": "Chanastst38",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 96,
+    "Item Name": "Blood-Forged Skeletal Spine",
+    "Price": 3.09
+  },
+  {
+    "Purchase ID": 165,
+    "SN": "Lirtassa52",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 183,
+    "Item Name": "Dragon's Greatsword",
+    "Price": 1.09
+  },
+  {
+    "Purchase ID": 166,
+    "SN": "Sondim68",
+    "Age": 22,
+    "Gender": "Female",
+    "Item ID": 30,
+    "Item Name": "Stormcaller",
+    "Price": 2.21
+  },
+  {
+    "Purchase ID": 167,
+    "SN": "Aeral97",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 157,
+    "Item Name": "Spada, Etcher of Hatred",
+    "Price": 4.8
+  },
+  {
+    "Purchase ID": 168,
+    "SN": "Iskjaskst81",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 85,
+    "Item Name": "Malificent Bag",
+    "Price": 1.75
+  },
+  {
+    "Purchase ID": 169,
+    "SN": "Heosurnuru52",
+    "Age": 16,
+    "Gender": "Female",
+    "Item ID": 123,
+    "Item Name": "Twilight's Carver",
+    "Price": 2.28
+  },
+  {
+    "Purchase ID": 170,
+    "SN": "Lisopela58",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 75,
+    "Item Name": "Brutality Ivory Warmace",
+    "Price": 2.42
+  },
+  {
+    "Purchase ID": 171,
+    "SN": "Caesrinusuir82",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 102,
+    "Item Name": "Avenger",
+    "Price": 3.44
+  },
+  {
+    "Purchase ID": 172,
+    "SN": "Tyirinu79",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 65,
+    "Item Name": "Conqueror Adamantite Mace",
+    "Price": 4.24
+  },
+  {
+    "Purchase ID": 173,
+    "SN": "Fironon91",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 5,
+    "Item Name": "Putrid Fan",
+    "Price": 4.08
+  },
+  {
+    "Purchase ID": 174,
+    "SN": "Lassjask63",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 144,
+    "Item Name": "Blood Infused Guardian",
+    "Price": 1.94
+  },
+  {
+    "Purchase ID": 175,
+    "SN": "Indcil77",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 103,
+    "Item Name": "Singed Scalpel",
+    "Price": 4.35
+  },
+  {
+    "Purchase ID": 176,
+    "SN": "Chamimla73",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 157,
+    "Item Name": "Spada, Etcher of Hatred",
+    "Price": 4.8
+  },
+  {
+    "Purchase ID": 177,
+    "SN": "Syathe73",
+    "Age": 30,
+    "Gender": "Female",
+    "Item ID": 135,
+    "Item Name": "Warped Diamond Crusader",
+    "Price": 1.4
+  },
+  {
+    "Purchase ID": 178,
+    "SN": "Baelollodeu94",
+    "Age": 20,
+    "Gender": "Female",
+    "Item ID": 57,
+    "Item Name": "Despair, Favor of Due Diligence",
+    "Price": 4.6
+  },
+  {
+    "Purchase ID": 179,
+    "SN": "Mindista32",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 59,
+    "Item Name": "Lightning, Etcher of the King",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 180,
+    "SN": "Saena74",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 95,
+    "Item Name": "Singed Onyx Warscythe",
+    "Price": 4.74
+  },
+  {
+    "Purchase ID": 181,
+    "SN": "Marirrasta50",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 51,
+    "Item Name": "Endbringer",
+    "Price": 4.66
+  },
+  {
+    "Purchase ID": 182,
+    "SN": "Lamil79",
+    "Age": 38,
+    "Gender": "Male",
+    "Item ID": 154,
+    "Item Name": "Feral Katana",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 183,
+    "SN": "Aenarap34",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 15,
+    "Item Name": "Soul Infused Crystal",
+    "Price": 2.96
+  },
+  {
+    "Purchase ID": 184,
+    "SN": "Aisur51",
+    "Age": 28,
+    "Gender": "Male",
+    "Item ID": 32,
+    "Item Name": "Orenmir",
+    "Price": 1.14
+  },
+  {
+    "Purchase ID": 185,
+    "SN": "Thrientossa55",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 150,
+    "Item Name": "Deathraze",
+    "Price": 2.85
+  },
+  {
+    "Purchase ID": 186,
+    "SN": "Chadista79",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 77,
+    "Item Name": "Piety, Guardian of Riddles",
+    "Price": 4
+  },
+  {
+    "Purchase ID": 187,
+    "SN": "Tyeurith29",
+    "Age": 8,
+    "Gender": "Male",
+    "Item ID": 11,
+    "Item Name": "Brimstone",
+    "Price": 3.65
+  },
+  {
+    "Purchase ID": 188,
+    "SN": "Malunil62",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 88,
+    "Item Name": "Emberling, Defender of Delusions",
+    "Price": 3.75
+  },
+  {
+    "Purchase ID": 189,
+    "SN": "Hiasri33",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 63,
+    "Item Name": "Stormfury Mace",
+    "Price": 4.99
+  },
+  {
+    "Purchase ID": 190,
+    "SN": "Lisadar44",
+    "Age": 27,
+    "Gender": "Male",
+    "Item ID": 69,
+    "Item Name": "Frenzy, Defender of the Harvest",
+    "Price": 1.98
+  },
+  {
+    "Purchase ID": 191,
+    "SN": "Frichjask31",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 87,
+    "Item Name": "Deluge, Edge of the West",
+    "Price": 4.43
+  },
+  {
+    "Purchase ID": 192,
+    "SN": "Lisjaskya84",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 98,
+    "Item Name": "Deadline, Voice Of Subtlety",
+    "Price": 2.89
+  },
+  {
+    "Purchase ID": 193,
+    "SN": "Ristydru66",
+    "Age": 27,
+    "Gender": "Male",
+    "Item ID": 62,
+    "Item Name": "Piece Maker",
+    "Price": 1.87
+  },
+  {
+    "Purchase ID": 194,
+    "SN": "Frichast28",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 73,
+    "Item Name": "Ritual Mace",
+    "Price": 2.05
+  },
+  {
+    "Purchase ID": 195,
+    "SN": "Minduri31",
+    "Age": 39,
+    "Gender": "Male",
+    "Item ID": 113,
+    "Item Name": "Solitude's Reaver",
+    "Price": 4.07
+  },
+  {
+    "Purchase ID": 196,
+    "SN": "Maradaran90",
+    "Age": 35,
+    "Gender": "Female",
+    "Item ID": 9,
+    "Item Name": "Thorn, Conqueror of the Corrupted",
+    "Price": 2.73
+  },
+  {
+    "Purchase ID": 197,
+    "SN": "Mindetosya30",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 37,
+    "Item Name": "Shadow Strike, Glory of Ending Hope",
+    "Price": 3.16
+  },
+  {
+    "Purchase ID": 198,
+    "SN": "Chadolyla44",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 153,
+    "Item Name": "Mercenary Sabre",
+    "Price": 3.74
+  },
+  {
+    "Purchase ID": 199,
+    "SN": "Ialallo29",
+    "Age": 15,
+    "Gender": "Female",
+    "Item ID": 138,
+    "Item Name": "Peacekeeper, Wit of Dark Magic",
+    "Price": 4.74
+  },
+  {
+    "Purchase ID": 200,
+    "SN": "Pheusrical25",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 114,
+    "Item Name": "Yearning Mageblade",
+    "Price": 3.82
+  },
+  {
+    "Purchase ID": 201,
+    "SN": "Chanosia60",
+    "Age": 31,
+    "Gender": "Male",
+    "Item ID": 2,
+    "Item Name": "Verdict",
+    "Price": 2.48
+  },
+  {
+    "Purchase ID": 202,
+    "SN": "Phistym51",
+    "Age": 37,
+    "Gender": "Male",
+    "Item ID": 82,
+    "Item Name": "Nirvana",
+    "Price": 4.9
+  },
+  {
+    "Purchase ID": 203,
+    "SN": "Aelollo59",
+    "Age": 33,
+    "Gender": "Male",
+    "Item ID": 3,
+    "Item Name": "Phantomlight",
+    "Price": 2.49
+  },
+  {
+    "Purchase ID": 204,
+    "SN": "Chamimla85",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 0,
+    "Item Name": "Splinter",
+    "Price": 1.28
+  },
+  {
+    "Purchase ID": 205,
+    "SN": "Jiskimya77",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 149,
+    "Item Name": "Tranquility, Razor of Black Magic",
+    "Price": 1.75
+  },
+  {
+    "Purchase ID": 206,
+    "SN": "Haisurra41",
+    "Age": 20,
+    "Gender": "Female",
+    "Item ID": 78,
+    "Item Name": "Glimmer, Ender of the Moon",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 207,
+    "SN": "Sondastsda82",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 145,
+    "Item Name": "Fiery Glass Crusader",
+    "Price": 4.58
+  },
+  {
+    "Purchase ID": 208,
+    "SN": "Qilanrion65",
+    "Age": 37,
+    "Gender": "Male",
+    "Item ID": 105,
+    "Item Name": "Hailstorm Shadowsteel Scythe",
+    "Price": 3.03
+  },
+  {
+    "Purchase ID": 209,
+    "SN": "Eulasuir89",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 162,
+    "Item Name": "Abyssal Shard",
+    "Price": 2.67
+  },
+  {
+    "Purchase ID": 210,
+    "SN": "Umolrian85",
+    "Age": 32,
+    "Gender": "Female",
+    "Item ID": 136,
+    "Item Name": "Ghastly Adamantite Protector",
+    "Price": 3.58
+  },
+  {
+    "Purchase ID": 211,
+    "SN": "Eosrirgue62",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 120,
+    "Item Name": "Agatha",
+    "Price": 3.08
+  },
+  {
+    "Purchase ID": 212,
+    "SN": "Shaidanu32",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 159,
+    "Item Name": "Oathbreaker, Spellblade of Trials",
+    "Price": 3.08
+  },
+  {
+    "Purchase ID": 213,
+    "SN": "Lirtastan49",
+    "Age": 29,
+    "Gender": "Male",
+    "Item ID": 2,
+    "Item Name": "Verdict",
+    "Price": 2.48
+  },
+  {
+    "Purchase ID": 214,
+    "SN": "Iaralsuir44",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 137,
+    "Item Name": "Aetherius, Boon of the Blessed",
+    "Price": 3.39
+  },
+  {
+    "Purchase ID": 215,
+    "SN": "Ialallo29",
+    "Age": 15,
+    "Gender": "Female",
+    "Item ID": 40,
+    "Item Name": "Second Chance",
+    "Price": 2.52
+  },
+  {
+    "Purchase ID": 216,
+    "SN": "Tyeudariasuir90",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 136,
+    "Item Name": "Ghastly Adamantite Protector",
+    "Price": 3.58
+  },
+  {
+    "Purchase ID": 217,
+    "SN": "Cosadar58",
+    "Age": 38,
+    "Gender": "Male",
+    "Item ID": 25,
+    "Item Name": "Hero Cane",
+    "Price": 4.35
+  },
+  {
+    "Purchase ID": 218,
+    "SN": "Aelastirin39",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 76,
+    "Item Name": "Haunted Bronzed Bludgeon",
+    "Price": 3.15
+  },
+  {
+    "Purchase ID": 219,
+    "SN": "Aidai53",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 57,
+    "Item Name": "Despair, Favor of Due Diligence",
+    "Price": 4.6
+  },
+  {
+    "Purchase ID": 220,
+    "SN": "Jiskjask85",
+    "Age": 40,
+    "Gender": "Male",
+    "Item ID": 46,
+    "Item Name": "Hopeless Ebon Dualblade",
+    "Price": 1.33
+  },
+  {
+    "Purchase ID": 221,
+    "SN": "Ealrion88",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 175,
+    "Item Name": "Woeful Adamantite Claymore",
+    "Price": 4.48
+  },
+  {
+    "Purchase ID": 222,
+    "SN": "Chamjask73",
+    "Age": 22,
+    "Gender": "Female",
+    "Item ID": 178,
+    "Item Name": "Oathbreaker, Last Hope of the Breaking Storm",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 223,
+    "SN": "Undirrala66",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 142,
+    "Item Name": "Righteous Might",
+    "Price": 2.62
+  },
+  {
+    "Purchase ID": 224,
+    "SN": "Lisosia93",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 157,
+    "Item Name": "Spada, Etcher of Hatred",
+    "Price": 4.8
+  },
+  {
+    "Purchase ID": 225,
+    "SN": "Tyaenasti87",
+    "Age": 24,
+    "Gender": "Female",
+    "Item ID": 154,
+    "Item Name": "Feral Katana",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 226,
+    "SN": "Alim85",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 54,
+    "Item Name": "Eternal Cleaver",
+    "Price": 2.5
+  },
+  {
+    "Purchase ID": 227,
+    "SN": "Haeladil46",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 24,
+    "Item Name": "Warped Fetish",
+    "Price": 3.81
+  },
+  {
+    "Purchase ID": 228,
+    "SN": "Jiskirran77",
+    "Age": 20,
+    "Gender": "Other / Non-Disclosed",
+    "Item ID": 80,
+    "Item Name": "Dreamsong",
+    "Price": 3.39
+  },
+  {
+    "Purchase ID": 229,
+    "SN": "Undosia27",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 72,
+    "Item Name": "Winter's Bite",
+    "Price": 3.77
+  },
+  {
+    "Purchase ID": 230,
+    "SN": "Peorith44",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 102,
+    "Item Name": "Avenger",
+    "Price": 3.44
+  },
+  {
+    "Purchase ID": 231,
+    "SN": "Yarithsurgue62",
+    "Age": 26,
+    "Gender": "Male",
+    "Item ID": 139,
+    "Item Name": "Mercy, Katana of Dismay",
+    "Price": 4.94
+  },
+  {
+    "Purchase ID": 232,
+    "SN": "Sundadar27",
+    "Age": 31,
+    "Gender": "Male",
+    "Item ID": 114,
+    "Item Name": "Yearning Mageblade",
+    "Price": 3.82
+  },
+  {
+    "Purchase ID": 233,
+    "SN": "Taeduenu92",
+    "Age": 19,
+    "Gender": "Female",
+    "Item ID": 66,
+    "Item Name": "Victor Iron Spikes",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 234,
+    "SN": "Chamimla85",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 97,
+    "Item Name": "Swan Song, Gouger Of Terror",
+    "Price": 2.5
+  },
+  {
+    "Purchase ID": 235,
+    "SN": "Rairin89",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 163,
+    "Item Name": "Thunderfury Scimitar",
+    "Price": 3.45
+  },
+  {
+    "Purchase ID": 236,
+    "SN": "Aerithriaphos46",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 107,
+    "Item Name": "Splitter, Foe Of Subtlety",
+    "Price": 2.18
+  },
+  {
+    "Purchase ID": 237,
+    "SN": "Idairin51",
+    "Age": 20,
+    "Gender": "Other / Non-Disclosed",
+    "Item ID": 16,
+    "Item Name": "Restored Bauble",
+    "Price": 3.55
+  },
+  {
+    "Purchase ID": 238,
+    "SN": "Lisista54",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 42,
+    "Item Name": "The Decapitator",
+    "Price": 1.75
+  },
+  {
+    "Purchase ID": 239,
+    "SN": "Eodailis27",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 19,
+    "Item Name": "Pursuit, Cudgel of Necromancy",
+    "Price": 1.02
+  },
+  {
+    "Purchase ID": 240,
+    "SN": "Lirtastsda29",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 82,
+    "Item Name": "Nirvana",
+    "Price": 4.9
+  },
+  {
+    "Purchase ID": 241,
+    "SN": "Undilsan50",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 10,
+    "Item Name": "Sleepwalker",
+    "Price": 1.79
+  },
+  {
+    "Purchase ID": 242,
+    "SN": "Eodaisu60",
+    "Age": 16,
+    "Gender": "Other / Non-Disclosed",
+    "Item ID": 39,
+    "Item Name": "Betrayal, Whisper of Grieving Widows",
+    "Price": 3.94
+  },
+  {
+    "Purchase ID": 243,
+    "SN": "Quaranmol58",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 83,
+    "Item Name": "Lifebender",
+    "Price": 3.33
+  },
+  {
+    "Purchase ID": 244,
+    "SN": "Lirtossa60",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 37,
+    "Item Name": "Shadow Strike, Glory of Ending Hope",
+    "Price": 3.16
+  },
+  {
+    "Purchase ID": 245,
+    "SN": "Lisim78",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 85,
+    "Item Name": "Malificent Bag",
+    "Price": 1.75
+  },
+  {
+    "Purchase ID": 246,
+    "SN": "Lirtilsa71",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 139,
+    "Item Name": "Mercy, Katana of Dismay",
+    "Price": 4.94
+  },
+  {
+    "Purchase ID": 247,
+    "SN": "Iskadarya95",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 82,
+    "Item Name": "Nirvana",
+    "Price": 4.9
+  },
+  {
+    "Purchase ID": 248,
+    "SN": "Isursuir31",
+    "Age": 44,
+    "Gender": "Male",
+    "Item ID": 137,
+    "Item Name": "Aetherius, Boon of the Blessed",
+    "Price": 3.39
+  },
+  {
+    "Purchase ID": 249,
+    "SN": "Sundirrala66",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 16,
+    "Item Name": "Restored Bauble",
+    "Price": 3.55
+  },
+  {
+    "Purchase ID": 250,
+    "SN": "Saerallora71",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 87,
+    "Item Name": "Deluge, Edge of the West",
+    "Price": 4.43
+  },
+  {
+    "Purchase ID": 251,
+    "SN": "Iasur80",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 23,
+    "Item Name": "Crucifer",
+    "Price": 1.99
+  },
+  {
+    "Purchase ID": 252,
+    "SN": "Tyaelo67",
+    "Age": 39,
+    "Gender": "Male",
+    "Item ID": 92,
+    "Item Name": "Final Critic",
+    "Price": 4.88
+  },
+  {
+    "Purchase ID": 253,
+    "SN": "Aesty53",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 28,
+    "Item Name": "Flux, Destroyer of Due Diligence",
+    "Price": 1.06
+  },
+  {
+    "Purchase ID": 254,
+    "SN": "Quanunwen42",
+    "Age": 23,
+    "Gender": "Female",
+    "Item ID": 94,
+    "Item Name": "Mourning Blade",
+    "Price": 3.49
+  },
+  {
+    "Purchase ID": 255,
+    "SN": "Sondastsda82",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 71,
+    "Item Name": "Demise",
+    "Price": 1.61
+  },
+  {
+    "Purchase ID": 256,
+    "SN": "Chamirra53",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 182,
+    "Item Name": "Toothpick",
+    "Price": 4.03
+  },
+  {
+    "Purchase ID": 257,
+    "SN": "Yasur35",
+    "Age": 26,
+    "Gender": "Male",
+    "Item ID": 175,
+    "Item Name": "Woeful Adamantite Claymore",
+    "Price": 4.48
+  },
+  {
+    "Purchase ID": 258,
+    "SN": "Assehoan67",
+    "Age": 26,
+    "Gender": "Male",
+    "Item ID": 149,
+    "Item Name": "Tranquility, Razor of Black Magic",
+    "Price": 1.75
+  },
+  {
+    "Purchase ID": 259,
+    "SN": "Haellysu29",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 72,
+    "Item Name": "Winter's Bite",
+    "Price": 3.77
+  },
+  {
+    "Purchase ID": 260,
+    "SN": "Saida58",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 70,
+    "Item Name": "Hope's End",
+    "Price": 1.03
+  },
+  {
+    "Purchase ID": 261,
+    "SN": "Tyeosri53",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 141,
+    "Item Name": "Persuasion",
+    "Price": 3.19
+  },
+  {
+    "Purchase ID": 262,
+    "SN": "Chamadar79",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 172,
+    "Item Name": "Blade of the Grave",
+    "Price": 3.14
+  },
+  {
+    "Purchase ID": 263,
+    "SN": "Aeral43",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 78,
+    "Item Name": "Glimmer, Ender of the Moon",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 264,
+    "SN": "Saesrideu94",
+    "Age": 35,
+    "Gender": "Male",
+    "Item ID": 119,
+    "Item Name": "Stormbringer, Dark Blade of Ending Misery",
+    "Price": 4.32
+  },
+  {
+    "Purchase ID": 265,
+    "SN": "Lirtirra37",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 172,
+    "Item Name": "Blade of the Grave",
+    "Price": 3.14
+  },
+  {
+    "Purchase ID": 266,
+    "SN": "Siala43",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 113,
+    "Item Name": "Solitude's Reaver",
+    "Price": 4.07
+  },
+  {
+    "Purchase ID": 267,
+    "SN": "Tyidaim51",
+    "Age": 16,
+    "Gender": "Female",
+    "Item ID": 41,
+    "Item Name": "Orbit",
+    "Price": 4.75
+  },
+  {
+    "Purchase ID": 268,
+    "SN": "Inasti31",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 71,
+    "Item Name": "Demise",
+    "Price": 1.61
+  },
+  {
+    "Purchase ID": 269,
+    "SN": "Lassassast73",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 18,
+    "Item Name": "Torchlight, Bond of Storms",
+    "Price": 4.65
+  },
+  {
+    "Purchase ID": 270,
+    "SN": "Assassasta79",
+    "Age": 38,
+    "Gender": "Male",
+    "Item ID": 85,
+    "Item Name": "Malificent Bag",
+    "Price": 1.75
+  },
+  {
+    "Purchase ID": 271,
+    "SN": "Heollyra92",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 166,
+    "Item Name": "Thirsty Iron Reaver",
+    "Price": 3.07
+  },
+  {
+    "Purchase ID": 272,
+    "SN": "Anallorgue57",
+    "Age": 8,
+    "Gender": "Male",
+    "Item ID": 133,
+    "Item Name": "Faith's Scimitar",
+    "Price": 4.09
+  },
+  {
+    "Purchase ID": 273,
+    "SN": "Phyali88",
+    "Age": 15,
+    "Gender": "Female",
+    "Item ID": 92,
+    "Item Name": "Final Critic",
+    "Price": 4.88
+  },
+  {
+    "Purchase ID": 274,
+    "SN": "Aerithllora36",
+    "Age": 29,
+    "Gender": "Female",
+    "Item ID": 82,
+    "Item Name": "Nirvana",
+    "Price": 4.9
+  },
+  {
+    "Purchase ID": 275,
+    "SN": "Smaistysu35",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 173,
+    "Item Name": "Stormfury Longsword",
+    "Price": 4.93
+  },
+  {
+    "Purchase ID": 276,
+    "SN": "Tyidaim51",
+    "Age": 16,
+    "Gender": "Female",
+    "Item ID": 9,
+    "Item Name": "Thorn, Conqueror of the Corrupted",
+    "Price": 2.73
+  },
+  {
+    "Purchase ID": 277,
+    "SN": "Ennalmol65",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 92,
+    "Item Name": "Final Critic",
+    "Price": 4.88
+  },
+  {
+    "Purchase ID": 278,
+    "SN": "Iskichinya81",
+    "Age": 21,
+    "Gender": "Female",
+    "Item ID": 167,
+    "Item Name": "Malice, Legacy of the Queen",
+    "Price": 3.61
+  },
+  {
+    "Purchase ID": 279,
+    "SN": "Yarithrgue83",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 163,
+    "Item Name": "Thunderfury Scimitar",
+    "Price": 3.45
+  },
+  {
+    "Purchase ID": 280,
+    "SN": "Yana46",
+    "Age": 20,
+    "Gender": "Female",
+    "Item ID": 16,
+    "Item Name": "Restored Bauble",
+    "Price": 3.55
+  },
+  {
+    "Purchase ID": 281,
+    "SN": "Sondimla25",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 68,
+    "Item Name": "Storm-Weaver, Slayer of Inception",
+    "Price": 4.32
+  },
+  {
+    "Purchase ID": 282,
+    "SN": "Aidai61",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 155,
+    "Item Name": "War-Forged Gold Deflector",
+    "Price": 1.01
+  },
+  {
+    "Purchase ID": 283,
+    "SN": "Wailin72",
+    "Age": 21,
+    "Gender": "Female",
+    "Item ID": 9,
+    "Item Name": "Thorn, Conqueror of the Corrupted",
+    "Price": 2.73
+  },
+  {
+    "Purchase ID": 284,
+    "SN": "Firan91",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 128,
+    "Item Name": "Blazeguard, Reach of Eternity",
+    "Price": 4.91
+  },
+  {
+    "Purchase ID": 285,
+    "SN": "Alaesu91",
+    "Age": 26,
+    "Gender": "Male",
+    "Item ID": 163,
+    "Item Name": "Thunderfury Scimitar",
+    "Price": 3.45
+  },
+  {
+    "Purchase ID": 286,
+    "SN": "Aellynun67",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 153,
+    "Item Name": "Mercenary Sabre",
+    "Price": 3.74
+  },
+  {
+    "Purchase ID": 287,
+    "SN": "Rilaera56",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 5,
+    "Item Name": "Putrid Fan",
+    "Price": 4.08
+  },
+  {
+    "Purchase ID": 288,
+    "SN": "Eulaestira36",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 156,
+    "Item Name": "Soul-Forged Steel Shortsword",
+    "Price": 1.77
+  },
+  {
+    "Purchase ID": 289,
+    "SN": "Marim28",
+    "Age": 25,
+    "Gender": "Female",
+    "Item ID": 83,
+    "Item Name": "Lifebender",
+    "Price": 3.33
+  },
+  {
+    "Purchase ID": 290,
+    "SN": "Idastidru52",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 147,
+    "Item Name": "Hellreaver, Heirloom of Inception",
+    "Price": 4.93
+  },
+  {
+    "Purchase ID": 291,
+    "SN": "Idairin51",
+    "Age": 20,
+    "Gender": "Other / Non-Disclosed",
+    "Item ID": 35,
+    "Item Name": "Heartless Bone Dualblade",
+    "Price": 3.45
+  },
+  {
+    "Purchase ID": 292,
+    "SN": "Lisasi93",
+    "Age": 13,
+    "Gender": "Male",
+    "Item ID": 70,
+    "Item Name": "Hope's End",
+    "Price": 1.03
+  },
+  {
+    "Purchase ID": 293,
+    "SN": "Lisopela58",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 117,
+    "Item Name": "Heartstriker, Legacy of the Light",
+    "Price": 1.79
+  },
+  {
+    "Purchase ID": 294,
+    "SN": "Ilirrasda54",
+    "Age": 37,
+    "Gender": "Male",
+    "Item ID": 171,
+    "Item Name": "Scalpel",
+    "Price": 1.79
+  },
+  {
+    "Purchase ID": 295,
+    "SN": "Alaephos75",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 52,
+    "Item Name": "Hatred",
+    "Price": 4.84
+  },
+  {
+    "Purchase ID": 296,
+    "SN": "Syalollorap93",
+    "Age": 22,
+    "Gender": "Female",
+    "Item ID": 65,
+    "Item Name": "Conqueror Adamantite Mace",
+    "Price": 4.24
+  },
+  {
+    "Purchase ID": 297,
+    "SN": "Heosurnuru52",
+    "Age": 16,
+    "Gender": "Female",
+    "Item ID": 169,
+    "Item Name": "Interrogator, Blood Blade of the Queen",
+    "Price": 2.18
+  },
+  {
+    "Purchase ID": 298,
+    "SN": "Minduli80",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 110,
+    "Item Name": "Suspension",
+    "Price": 1.44
+  },
+  {
+    "Purchase ID": 299,
+    "SN": "Lirtossa84",
+    "Age": 11,
+    "Gender": "Male",
+    "Item ID": 164,
+    "Item Name": "Exiled Doomblade",
+    "Price": 1.63
+  },
+  {
+    "Purchase ID": 300,
+    "SN": "Chanastya70",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 136,
+    "Item Name": "Ghastly Adamantite Protector",
+    "Price": 3.58
+  },
+  {
+    "Purchase ID": 301,
+    "SN": "Frichadaran88",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 106,
+    "Item Name": "Crying Steel Sickle",
+    "Price": 3.41
+  },
+  {
+    "Purchase ID": 302,
+    "SN": "Siallylis44",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 4,
+    "Item Name": "Bloodlord's Fetish",
+    "Price": 1.7
+  },
+  {
+    "Purchase ID": 303,
+    "SN": "Aeri84",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 71,
+    "Item Name": "Demise",
+    "Price": 1.61
+  },
+  {
+    "Purchase ID": 304,
+    "SN": "Iasursti71",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 181,
+    "Item Name": "Reaper's Toll",
+    "Price": 1.66
+  },
+  {
+    "Purchase ID": 305,
+    "SN": "Siallylis44",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 179,
+    "Item Name": "Wolf, Promise of the Moonwalker",
+    "Price": 4.48
+  },
+  {
+    "Purchase ID": 306,
+    "SN": "Mindilsa34",
+    "Age": 24,
+    "Gender": "Female",
+    "Item ID": 38,
+    "Item Name": "The Void, Vengeance of Dark Magic",
+    "Price": 2.37
+  },
+  {
+    "Purchase ID": 307,
+    "SN": "Chamastya76",
+    "Age": 34,
+    "Gender": "Male",
+    "Item ID": 53,
+    "Item Name": "Vengeance Cleaver",
+    "Price": 2.05
+  },
+  {
+    "Purchase ID": 308,
+    "SN": "Undirra73",
+    "Age": 34,
+    "Gender": "Male",
+    "Item ID": 98,
+    "Item Name": "Deadline, Voice Of Subtlety",
+    "Price": 2.89
+  },
+  {
+    "Purchase ID": 309,
+    "SN": "Aestysu37",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 170,
+    "Item Name": "Shadowsteel",
+    "Price": 3.97
+  },
+  {
+    "Purchase ID": 310,
+    "SN": "Chadadarla74",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 117,
+    "Item Name": "Heartstriker, Legacy of the Light",
+    "Price": 1.79
+  },
+  {
+    "Purchase ID": 311,
+    "SN": "Anallorgue57",
+    "Age": 8,
+    "Gender": "Male",
+    "Item ID": 71,
+    "Item Name": "Demise",
+    "Price": 1.61
+  },
+  {
+    "Purchase ID": 312,
+    "SN": "Strithenu87",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 147,
+    "Item Name": "Hellreaver, Heirloom of Inception",
+    "Price": 4.93
+  },
+  {
+    "Purchase ID": 313,
+    "SN": "Iasrira89",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 182,
+    "Item Name": "Toothpick",
+    "Price": 4.03
+  },
+  {
+    "Purchase ID": 314,
+    "SN": "Ialidru40",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 37,
+    "Item Name": "Shadow Strike, Glory of Ending Hope",
+    "Price": 3.16
+  },
+  {
+    "Purchase ID": 315,
+    "SN": "Tyisur83",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 107,
+    "Item Name": "Splitter, Foe Of Subtlety",
+    "Price": 2.18
+  },
+  {
+    "Purchase ID": 316,
+    "SN": "Tyalaesu89",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 15,
+    "Item Name": "Soul Infused Crystal",
+    "Price": 2.96
+  },
+  {
+    "Purchase ID": 317,
+    "SN": "Tyidainu31",
+    "Age": 18,
+    "Gender": "Female",
+    "Item ID": 3,
+    "Item Name": "Phantomlight",
+    "Price": 2.49
+  },
+  {
+    "Purchase ID": 318,
+    "SN": "Iskadarya95",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 91,
+    "Item Name": "Celeste",
+    "Price": 4.17
+  },
+  {
+    "Purchase ID": 319,
+    "SN": "Rarallo90",
+    "Age": 33,
+    "Gender": "Male",
+    "Item ID": 144,
+    "Item Name": "Blood Infused Guardian",
+    "Price": 1.94
+  },
+  {
+    "Purchase ID": 320,
+    "SN": "Lirtilsa72",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 77,
+    "Item Name": "Piety, Guardian of Riddles",
+    "Price": 4
+  },
+  {
+    "Purchase ID": 321,
+    "SN": "Undjaskla97",
+    "Age": 33,
+    "Gender": "Male",
+    "Item ID": 118,
+    "Item Name": "Ghost Reaver, Longsword of Magic",
+    "Price": 2.17
+  },
+  {
+    "Purchase ID": 322,
+    "SN": "Saedaiphos46",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 37,
+    "Item Name": "Shadow Strike, Glory of Ending Hope",
+    "Price": 3.16
+  },
+  {
+    "Purchase ID": 323,
+    "SN": "Tyisur83",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 131,
+    "Item Name": "Fury",
+    "Price": 1.44
+  },
+  {
+    "Purchase ID": 324,
+    "SN": "Aerithnucal56",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 154,
+    "Item Name": "Feral Katana",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 325,
+    "SN": "Hiasri33",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 54,
+    "Item Name": "Eternal Cleaver",
+    "Price": 2.5
+  },
+  {
+    "Purchase ID": 326,
+    "SN": "Lisossa46",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 54,
+    "Item Name": "Eternal Cleaver",
+    "Price": 2.5
+  },
+  {
+    "Purchase ID": 327,
+    "SN": "Layjask75",
+    "Age": 22,
+    "Gender": "Female",
+    "Item ID": 17,
+    "Item Name": "Lazarus, Terror of the Earth",
+    "Price": 1.7
+  },
+  {
+    "Purchase ID": 328,
+    "SN": "Lisista63",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 152,
+    "Item Name": "Darkheart",
+    "Price": 1.74
+  },
+  {
+    "Purchase ID": 329,
+    "SN": "Ceoral34",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 145,
+    "Item Name": "Fiery Glass Crusader",
+    "Price": 4.58
+  },
+  {
+    "Purchase ID": 330,
+    "SN": "Hilaerin92",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 167,
+    "Item Name": "Malice, Legacy of the Queen",
+    "Price": 3.61
+  },
+  {
+    "Purchase ID": 331,
+    "SN": "Chadilsasta32",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 7,
+    "Item Name": "Thorn, Satchel of Dark Souls",
+    "Price": 1.33
+  },
+  {
+    "Purchase ID": 332,
+    "SN": "Undassa89",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 161,
+    "Item Name": "Devine",
+    "Price": 1.76
+  },
+  {
+    "Purchase ID": 333,
+    "SN": "Iduenu77",
+    "Age": 17,
+    "Gender": "Female",
+    "Item ID": 114,
+    "Item Name": "Yearning Mageblade",
+    "Price": 3.82
+  },
+  {
+    "Purchase ID": 334,
+    "SN": "Lisosia66",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 11,
+    "Item Name": "Brimstone",
+    "Price": 3.65
+  },
+  {
+    "Purchase ID": 335,
+    "SN": "Undimsya85",
+    "Age": 33,
+    "Gender": "Male",
+    "Item ID": 67,
+    "Item Name": "Celeste, Incarnation of the Corrupted",
+    "Price": 3.46
+  },
+  {
+    "Purchase ID": 336,
+    "SN": "Phaedue89",
+    "Age": 22,
+    "Gender": "Female",
+    "Item ID": 45,
+    "Item Name": "Glinting Glass Edge",
+    "Price": 3.85
+  },
+  {
+    "Purchase ID": 337,
+    "SN": "Yadacal26",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 17,
+    "Item Name": "Lazarus, Terror of the Earth",
+    "Price": 1.7
+  },
+  {
+    "Purchase ID": 338,
+    "SN": "Lisossa25",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 13,
+    "Item Name": "Serenity",
+    "Price": 1.41
+  },
+  {
+    "Purchase ID": 339,
+    "SN": "Ilmol66",
+    "Age": 8,
+    "Gender": "Female",
+    "Item ID": 124,
+    "Item Name": "Venom Claymore",
+    "Price": 1.29
+  },
+  {
+    "Purchase ID": 340,
+    "SN": "Yastyriaphos75",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 41,
+    "Item Name": "Orbit",
+    "Price": 4.75
+  },
+  {
+    "Purchase ID": 341,
+    "SN": "Hiasurria41",
+    "Age": 41,
+    "Gender": "Male",
+    "Item ID": 71,
+    "Item Name": "Demise",
+    "Price": 1.61
+  },
+  {
+    "Purchase ID": 342,
+    "SN": "Palatyon26",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 38,
+    "Item Name": "The Void, Vengeance of Dark Magic",
+    "Price": 2.37
+  },
+  {
+    "Purchase ID": 343,
+    "SN": "Chadilsasta32",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 49,
+    "Item Name": "The Oculus, Token of Lost Worlds",
+    "Price": 2.96
+  },
+  {
+    "Purchase ID": 344,
+    "SN": "Qilalista41",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 19,
+    "Item Name": "Pursuit, Cudgel of Necromancy",
+    "Price": 1.02
+  },
+  {
+    "Purchase ID": 345,
+    "SN": "Hada39",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 2,
+    "Item Name": "Verdict",
+    "Price": 2.48
+  },
+  {
+    "Purchase ID": 346,
+    "SN": "Saedaiphos46",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 121,
+    "Item Name": "Massacre",
+    "Price": 1.6
+  },
+  {
+    "Purchase ID": 347,
+    "SN": "Chamilsala65",
+    "Age": 23,
+    "Gender": "Female",
+    "Item ID": 11,
+    "Item Name": "Brimstone",
+    "Price": 3.65
+  },
+  {
+    "Purchase ID": 348,
+    "SN": "Eulaestira36",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 38,
+    "Item Name": "The Void, Vengeance of Dark Magic",
+    "Price": 2.37
+  },
+  {
+    "Purchase ID": 349,
+    "SN": "Sundirrala66",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 59,
+    "Item Name": "Lightning, Etcher of the King",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 350,
+    "SN": "Rairith81",
+    "Age": 15,
+    "Gender": "Other / Non-Disclosed",
+    "Item ID": 34,
+    "Item Name": "Retribution Axe",
+    "Price": 2.22
+  },
+  {
+    "Purchase ID": 351,
+    "SN": "Assistasda42",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 121,
+    "Item Name": "Massacre",
+    "Price": 1.6
+  },
+  {
+    "Purchase ID": 352,
+    "SN": "Ilarin91",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 79,
+    "Item Name": "Alpha, Oath of Zeal",
+    "Price": 4.05
+  },
+  {
+    "Purchase ID": 353,
+    "SN": "Ryanara76",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 174,
+    "Item Name": "Primitive Blade",
+    "Price": 3.47
+  },
+  {
+    "Purchase ID": 354,
+    "SN": "Undista85",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 163,
+    "Item Name": "Thunderfury Scimitar",
+    "Price": 3.45
+  },
+  {
+    "Purchase ID": 355,
+    "SN": "Tyeoralru41",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 140,
+    "Item Name": "Striker",
+    "Price": 2.94
+  },
+  {
+    "Purchase ID": 356,
+    "SN": "Pheosrinudeu70",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 138,
+    "Item Name": "Peacekeeper, Wit of Dark Magic",
+    "Price": 4.74
+  },
+  {
+    "Purchase ID": 357,
+    "SN": "Heuli25",
+    "Age": 23,
+    "Gender": "Female",
+    "Item ID": 37,
+    "Item Name": "Shadow Strike, Glory of Ending Hope",
+    "Price": 3.16
+  },
+  {
+    "Purchase ID": 358,
+    "SN": "Pheutherin27",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 74,
+    "Item Name": "Yearning Crusher",
+    "Price": 4.18
+  },
+  {
+    "Purchase ID": 359,
+    "SN": "Chadirra90",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 73,
+    "Item Name": "Ritual Mace",
+    "Price": 2.05
+  },
+  {
+    "Purchase ID": 360,
+    "SN": "Ali84",
+    "Age": 29,
+    "Gender": "Male",
+    "Item ID": 14,
+    "Item Name": "Possessed Core",
+    "Price": 2.61
+  },
+  {
+    "Purchase ID": 361,
+    "SN": "Frichjaskan98",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 19,
+    "Item Name": "Pursuit, Cudgel of Necromancy",
+    "Price": 1.02
+  },
+  {
+    "Purchase ID": 362,
+    "SN": "Malil90",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 107,
+    "Item Name": "Splitter, Foe Of Subtlety",
+    "Price": 2.18
+  },
+  {
+    "Purchase ID": 363,
+    "SN": "Aina42",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 45,
+    "Item Name": "Glinting Glass Edge",
+    "Price": 3.85
+  },
+  {
+    "Purchase ID": 364,
+    "SN": "Yarithllodeu72",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 88,
+    "Item Name": "Emberling, Defender of Delusions",
+    "Price": 3.75
+  },
+  {
+    "Purchase ID": 365,
+    "SN": "Tyaedainu44",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 43,
+    "Item Name": "Foul Edge",
+    "Price": 3.54
+  },
+  {
+    "Purchase ID": 366,
+    "SN": "Hirirap39",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 31,
+    "Item Name": "Trickster",
+    "Price": 1.55
+  },
+  {
+    "Purchase ID": 367,
+    "SN": "Eodailis27",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 138,
+    "Item Name": "Peacekeeper, Wit of Dark Magic",
+    "Price": 4.74
+  },
+  {
+    "Purchase ID": 368,
+    "SN": "Ethron58",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 3,
+    "Item Name": "Phantomlight",
+    "Price": 2.49
+  },
+  {
+    "Purchase ID": 369,
+    "SN": "Heuli25",
+    "Age": 23,
+    "Gender": "Female",
+    "Item ID": 137,
+    "Item Name": "Aetherius, Boon of the Blessed",
+    "Price": 3.39
+  },
+  {
+    "Purchase ID": 370,
+    "SN": "Idai61",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 45,
+    "Item Name": "Glinting Glass Edge",
+    "Price": 3.85
+  },
+  {
+    "Purchase ID": 371,
+    "SN": "Eusurdeu49",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 155,
+    "Item Name": "War-Forged Gold Deflector",
+    "Price": 1.01
+  },
+  {
+    "Purchase ID": 372,
+    "SN": "Saistyphos30",
+    "Age": 35,
+    "Gender": "Male",
+    "Item ID": 64,
+    "Item Name": "Fusion Pummel",
+    "Price": 4.82
+  },
+  {
+    "Purchase ID": 373,
+    "SN": "Aina42",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 103,
+    "Item Name": "Singed Scalpel",
+    "Price": 4.35
+  },
+  {
+    "Purchase ID": 374,
+    "SN": "Saisrilis27",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 85,
+    "Item Name": "Malificent Bag",
+    "Price": 1.75
+  },
+  {
+    "Purchase ID": 375,
+    "SN": "Hallysucal81",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 181,
+    "Item Name": "Reaper's Toll",
+    "Price": 1.66
+  },
+  {
+    "Purchase ID": 376,
+    "SN": "Ilimya66",
+    "Age": 33,
+    "Gender": "Male",
+    "Item ID": 59,
+    "Item Name": "Lightning, Etcher of the King",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 377,
+    "SN": "Raysistast71",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 11,
+    "Item Name": "Brimstone",
+    "Price": 3.65
+  },
+  {
+    "Purchase ID": 378,
+    "SN": "Haedairiadru51",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 96,
+    "Item Name": "Blood-Forged Skeletal Spine",
+    "Price": 3.09
+  },
+  {
+    "Purchase ID": 379,
+    "SN": "Tyananurgue44",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 100,
+    "Item Name": "Blindscythe",
+    "Price": 3.27
+  },
+  {
+    "Purchase ID": 380,
+    "SN": "Risty84",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 50,
+    "Item Name": "Dawn",
+    "Price": 4.6
+  },
+  {
+    "Purchase ID": 381,
+    "SN": "Aerillorin70",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 83,
+    "Item Name": "Lifebender",
+    "Price": 3.33
+  },
+  {
+    "Purchase ID": 382,
+    "SN": "Phistyn52",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 164,
+    "Item Name": "Exiled Doomblade",
+    "Price": 1.63
+  },
+  {
+    "Purchase ID": 383,
+    "SN": "Yalo85",
+    "Age": 34,
+    "Gender": "Male",
+    "Item ID": 11,
+    "Item Name": "Brimstone",
+    "Price": 3.65
+  },
+  {
+    "Purchase ID": 384,
+    "SN": "Chamirrasya33",
+    "Age": 21,
+    "Gender": "Female",
+    "Item ID": 110,
+    "Item Name": "Suspension",
+    "Price": 1.44
+  },
+  {
+    "Purchase ID": 385,
+    "SN": "Hiral75",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 29,
+    "Item Name": "Chaos, Ender of the End",
+    "Price": 1.98
+  },
+  {
+    "Purchase ID": 386,
+    "SN": "Isursti83",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 129,
+    "Item Name": "Fate, Vengeance of Eternal Justice",
+    "Price": 1.54
+  },
+  {
+    "Purchase ID": 387,
+    "SN": "Bartassaya73",
+    "Age": 26,
+    "Gender": "Male",
+    "Item ID": 39,
+    "Item Name": "Betrayal, Whisper of Grieving Widows",
+    "Price": 3.94
+  },
+  {
+    "Purchase ID": 388,
+    "SN": "Aeda94",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 128,
+    "Item Name": "Blazeguard, Reach of Eternity",
+    "Price": 4.91
+  },
+  {
+    "Purchase ID": 389,
+    "SN": "Quinarap53",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 157,
+    "Item Name": "Spada, Etcher of Hatred",
+    "Price": 4.8
+  },
+  {
+    "Purchase ID": 390,
+    "SN": "Asur53",
+    "Age": 26,
+    "Gender": "Male",
+    "Item ID": 75,
+    "Item Name": "Brutality Ivory Warmace",
+    "Price": 2.42
+  },
+  {
+    "Purchase ID": 391,
+    "SN": "Alarap40",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 20,
+    "Item Name": "Netherbane",
+    "Price": 3.27
+  },
+  {
+    "Purchase ID": 392,
+    "SN": "Sida61",
+    "Age": 20,
+    "Gender": "Female",
+    "Item ID": 181,
+    "Item Name": "Reaper's Toll",
+    "Price": 1.66
+  },
+  {
+    "Purchase ID": 393,
+    "SN": "Hiarideu73",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 54,
+    "Item Name": "Eternal Cleaver",
+    "Price": 2.5
+  },
+  {
+    "Purchase ID": 394,
+    "SN": "Lassassasda30",
+    "Age": 12,
+    "Gender": "Male",
+    "Item ID": 60,
+    "Item Name": "Wolf",
+    "Price": 3.54
+  },
+  {
+    "Purchase ID": 395,
+    "SN": "Ennoncil86",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 152,
+    "Item Name": "Darkheart",
+    "Price": 1.74
+  },
+  {
+    "Purchase ID": 396,
+    "SN": "Siralsudeu54",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 131,
+    "Item Name": "Fury",
+    "Price": 1.44
+  },
+  {
+    "Purchase ID": 397,
+    "SN": "Eusri26",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 100,
+    "Item Name": "Blindscythe",
+    "Price": 3.27
+  },
+  {
+    "Purchase ID": 398,
+    "SN": "Ardcil81",
+    "Age": 34,
+    "Gender": "Male",
+    "Item ID": 96,
+    "Item Name": "Blood-Forged Skeletal Spine",
+    "Price": 3.09
+  },
+  {
+    "Purchase ID": 399,
+    "SN": "Marilsasya33",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 143,
+    "Item Name": "Frenzied Scimitar",
+    "Price": 1.56
+  },
+  {
+    "Purchase ID": 400,
+    "SN": "Ilarin91",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 72,
+    "Item Name": "Winter's Bite",
+    "Price": 3.77
+  },
+  {
+    "Purchase ID": 401,
+    "SN": "Lirtim36",
+    "Age": 15,
+    "Gender": "Other / Non-Disclosed",
+    "Item ID": 46,
+    "Item Name": "Hopeless Ebon Dualblade",
+    "Price": 1.33
+  },
+  {
+    "Purchase ID": 402,
+    "SN": "Heunadil74",
+    "Age": 23,
+    "Gender": "Female",
+    "Item ID": 129,
+    "Item Name": "Fate, Vengeance of Eternal Justice",
+    "Price": 1.54
+  },
+  {
+    "Purchase ID": 403,
+    "SN": "Frichadar89",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 162,
+    "Item Name": "Abyssal Shard",
+    "Price": 2.67
+  },
+  {
+    "Purchase ID": 404,
+    "SN": "Chamirrasya33",
+    "Age": 21,
+    "Gender": "Female",
+    "Item ID": 71,
+    "Item Name": "Demise",
+    "Price": 1.61
+  },
+  {
+    "Purchase ID": 405,
+    "SN": "Aesurstilis64",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 70,
+    "Item Name": "Hope's End",
+    "Price": 1.03
+  },
+  {
+    "Purchase ID": 406,
+    "SN": "Idaidil28",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 100,
+    "Item Name": "Blindscythe",
+    "Price": 3.27
+  },
+  {
+    "Purchase ID": 407,
+    "SN": "Idai61",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 131,
+    "Item Name": "Fury",
+    "Price": 1.44
+  },
+  {
+    "Purchase ID": 408,
+    "SN": "Raesty92",
+    "Age": 12,
+    "Gender": "Male",
+    "Item ID": 53,
+    "Item Name": "Vengeance Cleaver",
+    "Price": 2.05
+  },
+  {
+    "Purchase ID": 409,
+    "SN": "Lisotesta51",
+    "Age": 15,
+    "Gender": "Female",
+    "Item ID": 144,
+    "Item Name": "Blood Infused Guardian",
+    "Price": 1.94
+  },
+  {
+    "Purchase ID": 410,
+    "SN": "Strithenu87",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 99,
+    "Item Name": "Expiration, Warscythe Of Lost Worlds",
+    "Price": 1.71
+  },
+  {
+    "Purchase ID": 411,
+    "SN": "Lisico81",
+    "Age": 10,
+    "Gender": "Male",
+    "Item ID": 101,
+    "Item Name": "Final Critic",
+    "Price": 4.19
+  },
+  {
+    "Purchase ID": 412,
+    "SN": "Lisiriya82",
+    "Age": 32,
+    "Gender": "Male",
+    "Item ID": 86,
+    "Item Name": "Stormfury Lantern",
+    "Price": 2.27
+  },
+  {
+    "Purchase ID": 413,
+    "SN": "Siana77",
+    "Age": 12,
+    "Gender": "Male",
+    "Item ID": 93,
+    "Item Name": "Apocalyptic Battlescythe",
+    "Price": 1.97
+  },
+  {
+    "Purchase ID": 414,
+    "SN": "Marokian45",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 108,
+    "Item Name": "Extraction, Quickblade Of Trembling Hands",
+    "Price": 3.53
+  },
+  {
+    "Purchase ID": 415,
+    "SN": "Sausosia74",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 120,
+    "Item Name": "Agatha",
+    "Price": 3.08
+  },
+  {
+    "Purchase ID": 416,
+    "SN": "Aestysu37",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 13,
+    "Item Name": "Serenity",
+    "Price": 1.41
+  },
+  {
+    "Purchase ID": 417,
+    "SN": "Pheodaisun84",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 98,
+    "Item Name": "Deadline, Voice Of Subtlety",
+    "Price": 2.89
+  },
+  {
+    "Purchase ID": 418,
+    "SN": "Marim28",
+    "Age": 25,
+    "Gender": "Female",
+    "Item ID": 125,
+    "Item Name": "Whistling Mithril Warblade",
+    "Price": 1
+  },
+  {
+    "Purchase ID": 419,
+    "SN": "Iaralrgue74",
+    "Age": 33,
+    "Gender": "Male",
+    "Item ID": 171,
+    "Item Name": "Scalpel",
+    "Price": 1.79
+  },
+  {
+    "Purchase ID": 420,
+    "SN": "Assesi91",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 129,
+    "Item Name": "Fate, Vengeance of Eternal Justice",
+    "Price": 1.54
+  },
+  {
+    "Purchase ID": 421,
+    "SN": "Yadaphos40",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 26,
+    "Item Name": "Unholy Wand",
+    "Price": 1.12
+  },
+  {
+    "Purchase ID": 422,
+    "SN": "Eusri70",
+    "Age": 24,
+    "Gender": "Female",
+    "Item ID": 154,
+    "Item Name": "Feral Katana",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 423,
+    "SN": "Aisurria69",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 10,
+    "Item Name": "Sleepwalker",
+    "Price": 1.79
+  },
+  {
+    "Purchase ID": 424,
+    "SN": "Iarilis73",
+    "Age": 10,
+    "Gender": "Male",
+    "Item ID": 149,
+    "Item Name": "Tranquility, Razor of Black Magic",
+    "Price": 1.75
+  },
+  {
+    "Purchase ID": 425,
+    "SN": "Raisty38",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 20,
+    "Item Name": "Netherbane",
+    "Price": 3.27
+  },
+  {
+    "Purchase ID": 426,
+    "SN": "Ilista82",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 32,
+    "Item Name": "Orenmir",
+    "Price": 1.14
+  },
+  {
+    "Purchase ID": 427,
+    "SN": "Leyirra83",
+    "Age": 24,
+    "Gender": "Female",
+    "Item ID": 170,
+    "Item Name": "Shadowsteel",
+    "Price": 3.97
+  },
+  {
+    "Purchase ID": 428,
+    "SN": "Aelly27",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 14,
+    "Item Name": "Possessed Core",
+    "Price": 2.61
+  },
+  {
+    "Purchase ID": 429,
+    "SN": "Aiduesu86",
+    "Age": 22,
+    "Gender": "Female",
+    "Item ID": 179,
+    "Item Name": "Wolf, Promise of the Moonwalker",
+    "Price": 4.48
+  },
+  {
+    "Purchase ID": 430,
+    "SN": "Frichynde86",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 164,
+    "Item Name": "Exiled Doomblade",
+    "Price": 1.63
+  },
+  {
+    "Purchase ID": 431,
+    "SN": "Aelollo59",
+    "Age": 33,
+    "Gender": "Male",
+    "Item ID": 172,
+    "Item Name": "Blade of the Grave",
+    "Price": 3.14
+  },
+  {
+    "Purchase ID": 432,
+    "SN": "Hisridru55",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 120,
+    "Item Name": "Agatha",
+    "Price": 3.08
+  },
+  {
+    "Purchase ID": 433,
+    "SN": "Chamossa77",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 156,
+    "Item Name": "Soul-Forged Steel Shortsword",
+    "Price": 1.77
+  },
+  {
+    "Purchase ID": 434,
+    "SN": "Irillo49",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 84,
+    "Item Name": "Arcane Gem",
+    "Price": 3.79
+  },
+  {
+    "Purchase ID": 435,
+    "SN": "Lirtastsya71",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 93,
+    "Item Name": "Apocalyptic Battlescythe",
+    "Price": 1.97
+  },
+  {
+    "Purchase ID": 436,
+    "SN": "Umolrian85",
+    "Age": 32,
+    "Gender": "Female",
+    "Item ID": 80,
+    "Item Name": "Dreamsong",
+    "Price": 3.39
+  },
+  {
+    "Purchase ID": 437,
+    "SN": "Frichosiala98",
+    "Age": 24,
+    "Gender": "Female",
+    "Item ID": 43,
+    "Item Name": "Foul Edge",
+    "Price": 3.54
+  },
+  {
+    "Purchase ID": 438,
+    "SN": "Qilunan34",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 145,
+    "Item Name": "Fiery Glass Crusader",
+    "Price": 4.58
+  },
+  {
+    "Purchase ID": 439,
+    "SN": "Quarrion42",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 59,
+    "Item Name": "Lightning, Etcher of the King",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 440,
+    "SN": "Aisurdru79",
+    "Age": 29,
+    "Gender": "Female",
+    "Item ID": 75,
+    "Item Name": "Brutality Ivory Warmace",
+    "Price": 2.42
+  },
+  {
+    "Purchase ID": 441,
+    "SN": "Hiaral50",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 156,
+    "Item Name": "Soul-Forged Steel Shortsword",
+    "Price": 1.77
+  },
+  {
+    "Purchase ID": 442,
+    "SN": "Zontibe81",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 84,
+    "Item Name": "Arcane Gem",
+    "Price": 3.79
+  },
+  {
+    "Purchase ID": 443,
+    "SN": "Iarallo65",
+    "Age": 26,
+    "Gender": "Male",
+    "Item ID": 149,
+    "Item Name": "Tranquility, Razor of Black Magic",
+    "Price": 1.75
+  },
+  {
+    "Purchase ID": 444,
+    "SN": "Sondassasya91",
+    "Age": 21,
+    "Gender": "Female",
+    "Item ID": 24,
+    "Item Name": "Warped Fetish",
+    "Price": 3.81
+  },
+  {
+    "Purchase ID": 445,
+    "SN": "Phaelap26",
+    "Age": 25,
+    "Gender": "Female",
+    "Item ID": 150,
+    "Item Name": "Deathraze",
+    "Price": 2.85
+  },
+  {
+    "Purchase ID": 446,
+    "SN": "Chanossast57",
+    "Age": 7,
+    "Gender": "Female",
+    "Item ID": 119,
+    "Item Name": "Stormbringer, Dark Blade of Ending Misery",
+    "Price": 4.32
+  },
+  {
+    "Purchase ID": 447,
+    "SN": "Yalae81",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 120,
+    "Item Name": "Agatha",
+    "Price": 3.08
+  },
+  {
+    "Purchase ID": 448,
+    "SN": "Chanjask65",
+    "Age": 18,
+    "Gender": "Female",
+    "Item ID": 68,
+    "Item Name": "Storm-Weaver, Slayer of Inception",
+    "Price": 4.32
+  },
+  {
+    "Purchase ID": 449,
+    "SN": "Ethralista69",
+    "Age": 13,
+    "Gender": "Male",
+    "Item ID": 34,
+    "Item Name": "Retribution Axe",
+    "Price": 2.22
+  },
+  {
+    "Purchase ID": 450,
+    "SN": "Sondistanya61",
+    "Age": 18,
+    "Gender": "Female",
+    "Item ID": 35,
+    "Item Name": "Heartless Bone Dualblade",
+    "Price": 3.45
+  },
+  {
+    "Purchase ID": 451,
+    "SN": "Eudanu32",
+    "Age": 15,
+    "Gender": "Female",
+    "Item ID": 122,
+    "Item Name": "Unending Tyranny",
+    "Price": 2.85
+  },
+  {
+    "Purchase ID": 452,
+    "SN": "Marilsasya33",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 32,
+    "Item Name": "Orenmir",
+    "Price": 1.14
+  },
+  {
+    "Purchase ID": 453,
+    "SN": "Euthe35",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 70,
+    "Item Name": "Hope's End",
+    "Price": 1.03
+  },
+  {
+    "Purchase ID": 454,
+    "SN": "Lassimla92",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 1,
+    "Item Name": "Crucifer",
+    "Price": 3.26
+  },
+  {
+    "Purchase ID": 455,
+    "SN": "Lisossala30",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 103,
+    "Item Name": "Singed Scalpel",
+    "Price": 4.35
+  },
+  {
+    "Purchase ID": 456,
+    "SN": "Phaena87",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 124,
+    "Item Name": "Venom Claymore",
+    "Price": 1.29
+  },
+  {
+    "Purchase ID": 457,
+    "SN": "Eulae84",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 61,
+    "Item Name": "Ragnarok",
+    "Price": 3.87
+  },
+  {
+    "Purchase ID": 458,
+    "SN": "Chamadarnya73",
+    "Age": 29,
+    "Gender": "Male",
+    "Item ID": 166,
+    "Item Name": "Thirsty Iron Reaver",
+    "Price": 3.07
+  },
+  {
+    "Purchase ID": 459,
+    "SN": "Eolan54",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 129,
+    "Item Name": "Fate, Vengeance of Eternal Justice",
+    "Price": 1.54
+  },
+  {
+    "Purchase ID": 460,
+    "SN": "Assistasda90",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 103,
+    "Item Name": "Singed Scalpel",
+    "Price": 4.35
+  },
+  {
+    "Purchase ID": 461,
+    "SN": "Ennrian78",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 168,
+    "Item Name": "Sun Strike, Jaws of Twisted Visions",
+    "Price": 1.48
+  },
+  {
+    "Purchase ID": 462,
+    "SN": "Undirrasta89",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 144,
+    "Item Name": "Blood Infused Guardian",
+    "Price": 1.94
+  },
+  {
+    "Purchase ID": 463,
+    "SN": "Frichadaran88",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 48,
+    "Item Name": "Rage, Legacy of the Lone Victor",
+    "Price": 2.48
+  },
+  {
+    "Purchase ID": 464,
+    "SN": "Rianistast50",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 178,
+    "Item Name": "Oathbreaker, Last Hope of the Breaking Storm",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 465,
+    "SN": "Sondastsda82",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 4,
+    "Item Name": "Bloodlord's Fetish",
+    "Price": 1.7
+  },
+  {
+    "Purchase ID": 466,
+    "SN": "Undare39",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 112,
+    "Item Name": "Worldbreaker",
+    "Price": 2.6
+  },
+  {
+    "Purchase ID": 467,
+    "SN": "Adairialis76",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 123,
+    "Item Name": "Twilight's Carver",
+    "Price": 2.28
+  },
+  {
+    "Purchase ID": 468,
+    "SN": "Aesur96",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 30,
+    "Item Name": "Stormcaller",
+    "Price": 2.21
+  },
+  {
+    "Purchase ID": 469,
+    "SN": "Tyialisudeu65",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 148,
+    "Item Name": "Warmonger, Gift of Suffering's End",
+    "Price": 4.03
+  },
+  {
+    "Purchase ID": 470,
+    "SN": "Arirgue63",
+    "Age": 29,
+    "Gender": "Male",
+    "Item ID": 4,
+    "Item Name": "Bloodlord's Fetish",
+    "Price": 1.7
+  },
+  {
+    "Purchase ID": 471,
+    "SN": "Sundadarla27",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 122,
+    "Item Name": "Unending Tyranny",
+    "Price": 2.85
+  },
+  {
+    "Purchase ID": 472,
+    "SN": "Lisopela58",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 18,
+    "Item Name": "Torchlight, Bond of Storms",
+    "Price": 4.65
+  },
+  {
+    "Purchase ID": 473,
+    "SN": "Eyircil84",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 25,
+    "Item Name": "Hero Cane",
+    "Price": 4.35
+  },
+  {
+    "Purchase ID": 474,
+    "SN": "Ina92",
+    "Age": 31,
+    "Gender": "Male",
+    "Item ID": 145,
+    "Item Name": "Fiery Glass Crusader",
+    "Price": 4.58
+  },
+  {
+    "Purchase ID": 475,
+    "SN": "Lirtistanya48",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 6,
+    "Item Name": "Rusty Skull",
+    "Price": 3.7
+  },
+  {
+    "Purchase ID": 476,
+    "SN": "Marassa62",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 103,
+    "Item Name": "Singed Scalpel",
+    "Price": 4.35
+  },
+  {
+    "Purchase ID": 477,
+    "SN": "Mindossa76",
+    "Age": 41,
+    "Gender": "Male",
+    "Item ID": 173,
+    "Item Name": "Stormfury Longsword",
+    "Price": 4.93
+  },
+  {
+    "Purchase ID": 478,
+    "SN": "Sondim68",
+    "Age": 22,
+    "Gender": "Female",
+    "Item ID": 35,
+    "Item Name": "Heartless Bone Dualblade",
+    "Price": 3.45
+  },
+  {
+    "Purchase ID": 479,
+    "SN": "Chanjaskan89",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 60,
+    "Item Name": "Wolf",
+    "Price": 3.54
+  },
+  {
+    "Purchase ID": 480,
+    "SN": "Salilis27",
+    "Age": 40,
+    "Gender": "Male",
+    "Item ID": 59,
+    "Item Name": "Lightning, Etcher of the King",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 481,
+    "SN": "Sondossa69",
+    "Age": 7,
+    "Gender": "Male",
+    "Item ID": 179,
+    "Item Name": "Wolf, Promise of the Moonwalker",
+    "Price": 4.48
+  },
+  {
+    "Purchase ID": 482,
+    "SN": "Sundjask71",
+    "Age": 32,
+    "Gender": "Female",
+    "Item ID": 77,
+    "Item Name": "Piety, Guardian of Riddles",
+    "Price": 4
+  },
+  {
+    "Purchase ID": 483,
+    "SN": "Saistyphos30",
+    "Age": 35,
+    "Gender": "Male",
+    "Item ID": 108,
+    "Item Name": "Extraction, Quickblade Of Trembling Hands",
+    "Price": 3.53
+  },
+  {
+    "Purchase ID": 484,
+    "SN": "Chanosian48",
+    "Age": 35,
+    "Gender": "Other / Non-Disclosed",
+    "Item ID": 39,
+    "Item Name": "Betrayal, Whisper of Grieving Widows",
+    "Price": 3.94
+  },
+  {
+    "Purchase ID": 485,
+    "SN": "Errian63",
+    "Age": 26,
+    "Gender": "Female",
+    "Item ID": 94,
+    "Item Name": "Mourning Blade",
+    "Price": 3.49
+  },
+  {
+    "Purchase ID": 486,
+    "SN": "Eurithphos97",
+    "Age": 9,
+    "Gender": "Male",
+    "Item ID": 53,
+    "Item Name": "Vengeance Cleaver",
+    "Price": 2.05
+  },
+  {
+    "Purchase ID": 487,
+    "SN": "Raillydeu47",
+    "Age": 14,
+    "Gender": "Male",
+    "Item ID": 93,
+    "Item Name": "Apocalyptic Battlescythe",
+    "Price": 1.97
+  },
+  {
+    "Purchase ID": 488,
+    "SN": "Malon70",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 44,
+    "Item Name": "Bonecarvin Battle Axe",
+    "Price": 2.38
+  },
+  {
+    "Purchase ID": 489,
+    "SN": "Jiskimsda56",
+    "Age": 28,
+    "Gender": "Male",
+    "Item ID": 32,
+    "Item Name": "Orenmir",
+    "Price": 1.14
+  },
+  {
+    "Purchase ID": 490,
+    "SN": "Idastidru52",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 148,
+    "Item Name": "Warmonger, Gift of Suffering's End",
+    "Price": 4.03
+  },
+  {
+    "Purchase ID": 491,
+    "SN": "Marughi89",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 22,
+    "Item Name": "Amnesia",
+    "Price": 2.18
+  },
+  {
+    "Purchase ID": 492,
+    "SN": "Ingatcil75",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 143,
+    "Item Name": "Frenzied Scimitar",
+    "Price": 1.56
+  },
+  {
+    "Purchase ID": 493,
+    "SN": "Chanirrasta87",
+    "Age": 14,
+    "Gender": "Male",
+    "Item ID": 139,
+    "Item Name": "Mercy, Katana of Dismay",
+    "Price": 4.94
+  },
+  {
+    "Purchase ID": 494,
+    "SN": "Alaesu77",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 3,
+    "Item Name": "Phantomlight",
+    "Price": 2.49
+  },
+  {
+    "Purchase ID": 495,
+    "SN": "Ermol76",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 97,
+    "Item Name": "Swan Song, Gouger Of Terror",
+    "Price": 2.5
+  },
+  {
+    "Purchase ID": 496,
+    "SN": "Tyeuduen32",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 79,
+    "Item Name": "Alpha, Oath of Zeal",
+    "Price": 4.05
+  },
+  {
+    "Purchase ID": 497,
+    "SN": "Yadacal26",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 52,
+    "Item Name": "Hatred",
+    "Price": 4.84
+  },
+  {
+    "Purchase ID": 498,
+    "SN": "Firon67",
+    "Age": 35,
+    "Gender": "Male",
+    "Item ID": 108,
+    "Item Name": "Extraction, Quickblade Of Trembling Hands",
+    "Price": 3.53
+  },
+  {
+    "Purchase ID": 499,
+    "SN": "Iadueria43",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 99,
+    "Item Name": "Expiration, Warscythe Of Lost Worlds",
+    "Price": 1.71
+  },
+  {
+    "Purchase ID": 500,
+    "SN": "Pheulidil31",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 100,
+    "Item Name": "Blindscythe",
+    "Price": 3.27
+  },
+  {
+    "Purchase ID": 501,
+    "SN": "Eodairu79",
+    "Age": 32,
+    "Gender": "Male",
+    "Item ID": 151,
+    "Item Name": "Severance",
+    "Price": 3.4
+  },
+  {
+    "Purchase ID": 502,
+    "SN": "Frichocesta66",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 16,
+    "Item Name": "Restored Bauble",
+    "Price": 3.55
+  },
+  {
+    "Purchase ID": 503,
+    "SN": "Iaralsuir44",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 59,
+    "Item Name": "Lightning, Etcher of the King",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 504,
+    "SN": "Chamilsala65",
+    "Age": 23,
+    "Gender": "Female",
+    "Item ID": 82,
+    "Item Name": "Nirvana",
+    "Price": 4.9
+  },
+  {
+    "Purchase ID": 505,
+    "SN": "Thourdirra92",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 110,
+    "Item Name": "Suspension",
+    "Price": 1.44
+  },
+  {
+    "Purchase ID": 506,
+    "SN": "Chadista79",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 25,
+    "Item Name": "Hero Cane",
+    "Price": 4.35
+  },
+  {
+    "Purchase ID": 507,
+    "SN": "Chanastnya43",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 29,
+    "Item Name": "Chaos, Ender of the End",
+    "Price": 1.98
+  },
+  {
+    "Purchase ID": 508,
+    "SN": "Iskim96",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 7,
+    "Item Name": "Thorn, Satchel of Dark Souls",
+    "Price": 1.33
+  },
+  {
+    "Purchase ID": 509,
+    "SN": "Inguron55",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 117,
+    "Item Name": "Heartstriker, Legacy of the Light",
+    "Price": 1.79
+  },
+  {
+    "Purchase ID": 510,
+    "SN": "Eulolis41",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 162,
+    "Item Name": "Abyssal Shard",
+    "Price": 2.67
+  },
+  {
+    "Purchase ID": 511,
+    "SN": "Lassilsala30",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 64,
+    "Item Name": "Fusion Pummel",
+    "Price": 4.82
+  },
+  {
+    "Purchase ID": 512,
+    "SN": "Sastydeu50",
+    "Age": 35,
+    "Gender": "Male",
+    "Item ID": 169,
+    "Item Name": "Interrogator, Blood Blade of the Queen",
+    "Price": 2.18
+  },
+  {
+    "Purchase ID": 513,
+    "SN": "Ilaesudil92",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 25,
+    "Item Name": "Hero Cane",
+    "Price": 4.35
+  },
+  {
+    "Purchase ID": 514,
+    "SN": "Yasur85",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 21,
+    "Item Name": "Souleater",
+    "Price": 1.1
+  },
+  {
+    "Purchase ID": 515,
+    "SN": "Haillyrgue51",
+    "Age": 7,
+    "Gender": "Male",
+    "Item ID": 40,
+    "Item Name": "Second Chance",
+    "Price": 2.52
+  },
+  {
+    "Purchase ID": 516,
+    "SN": "Aidain51",
+    "Age": 39,
+    "Gender": "Female",
+    "Item ID": 35,
+    "Item Name": "Heartless Bone Dualblade",
+    "Price": 3.45
+  },
+  {
+    "Purchase ID": 517,
+    "SN": "Aerithnuphos61",
+    "Age": 39,
+    "Gender": "Male",
+    "Item ID": 128,
+    "Item Name": "Blazeguard, Reach of Eternity",
+    "Price": 4.91
+  },
+  {
+    "Purchase ID": 518,
+    "SN": "Yalostiphos68",
+    "Age": 29,
+    "Gender": "Male",
+    "Item ID": 160,
+    "Item Name": "Azurewrath",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 519,
+    "SN": "Eusri70",
+    "Age": 24,
+    "Gender": "Female",
+    "Item ID": 140,
+    "Item Name": "Striker",
+    "Price": 2.94
+  },
+  {
+    "Purchase ID": 520,
+    "SN": "Chamjask73",
+    "Age": 22,
+    "Gender": "Female",
+    "Item ID": 109,
+    "Item Name": "Downfall, Scalpel Of The Emperor",
+    "Price": 4.76
+  },
+  {
+    "Purchase ID": 521,
+    "SN": "Phistym51",
+    "Age": 37,
+    "Gender": "Male",
+    "Item ID": 50,
+    "Item Name": "Dawn",
+    "Price": 4.6
+  },
+  {
+    "Purchase ID": 522,
+    "SN": "Meosridil82",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 82,
+    "Item Name": "Nirvana",
+    "Price": 4.9
+  },
+  {
+    "Purchase ID": 523,
+    "SN": "Aillyriadru65",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 21,
+    "Item Name": "Souleater",
+    "Price": 1.1
+  },
+  {
+    "Purchase ID": 524,
+    "SN": "Sally64",
+    "Age": 25,
+    "Gender": "Female",
+    "Item ID": 46,
+    "Item Name": "Hopeless Ebon Dualblade",
+    "Price": 1.33
+  },
+  {
+    "Purchase ID": 525,
+    "SN": "Lirtimst73",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 126,
+    "Item Name": "Exiled Mithril Longsword",
+    "Price": 2
+  },
+  {
+    "Purchase ID": 526,
+    "SN": "Ilosia37",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 133,
+    "Item Name": "Faith's Scimitar",
+    "Price": 4.09
+  },
+  {
+    "Purchase ID": 527,
+    "SN": "Lisim51",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 102,
+    "Item Name": "Avenger",
+    "Price": 3.44
+  },
+  {
+    "Purchase ID": 528,
+    "SN": "Isurria36",
+    "Age": 22,
+    "Gender": "Female",
+    "Item ID": 19,
+    "Item Name": "Pursuit, Cudgel of Necromancy",
+    "Price": 1.02
+  },
+  {
+    "Purchase ID": 529,
+    "SN": "Silaera56",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 142,
+    "Item Name": "Righteous Might",
+    "Price": 2.62
+  },
+  {
+    "Purchase ID": 530,
+    "SN": "Leetirraya83",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 5,
+    "Item Name": "Putrid Fan",
+    "Price": 4.08
+  },
+  {
+    "Purchase ID": 531,
+    "SN": "Lirtirra81",
+    "Age": 12,
+    "Gender": "Male",
+    "Item ID": 143,
+    "Item Name": "Frenzied Scimitar",
+    "Price": 1.56
+  },
+  {
+    "Purchase ID": 532,
+    "SN": "Eryon48",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 21,
+    "Item Name": "Souleater",
+    "Price": 1.1
+  },
+  {
+    "Purchase ID": 533,
+    "SN": "Hada39",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 48,
+    "Item Name": "Rage, Legacy of the Lone Victor",
+    "Price": 2.48
+  },
+  {
+    "Purchase ID": 534,
+    "SN": "Iana95",
+    "Age": 10,
+    "Gender": "Male",
+    "Item ID": 146,
+    "Item Name": "Warped Iron Scimitar",
+    "Price": 3.1
+  },
+  {
+    "Purchase ID": 535,
+    "SN": "Siralsudeu54",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 155,
+    "Item Name": "War-Forged Gold Deflector",
+    "Price": 1.01
+  },
+  {
+    "Purchase ID": 536,
+    "SN": "Siallylis44",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 101,
+    "Item Name": "Final Critic",
+    "Price": 4.19
+  },
+  {
+    "Purchase ID": 537,
+    "SN": "Sondassan80",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 112,
+    "Item Name": "Worldbreaker",
+    "Price": 2.6
+  },
+  {
+    "Purchase ID": 538,
+    "SN": "Chanadar44",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 141,
+    "Item Name": "Persuasion",
+    "Price": 3.19
+  },
+  {
+    "Purchase ID": 539,
+    "SN": "Eosurdru76",
+    "Age": 11,
+    "Gender": "Male",
+    "Item ID": 117,
+    "Item Name": "Heartstriker, Legacy of the Light",
+    "Price": 1.79
+  },
+  {
+    "Purchase ID": 540,
+    "SN": "Shidai42",
+    "Age": 29,
+    "Gender": "Male",
+    "Item ID": 7,
+    "Item Name": "Thorn, Satchel of Dark Souls",
+    "Price": 1.33
+  },
+  {
+    "Purchase ID": 541,
+    "SN": "Aesri53",
+    "Age": 31,
+    "Gender": "Male",
+    "Item ID": 161,
+    "Item Name": "Devine",
+    "Price": 1.76
+  },
+  {
+    "Purchase ID": 542,
+    "SN": "Syally44",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 22,
+    "Item Name": "Amnesia",
+    "Price": 2.18
+  },
+  {
+    "Purchase ID": 543,
+    "SN": "Idastidru52",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 121,
+    "Item Name": "Massacre",
+    "Price": 1.6
+  },
+  {
+    "Purchase ID": 544,
+    "SN": "Ardcil81",
+    "Age": 34,
+    "Gender": "Male",
+    "Item ID": 3,
+    "Item Name": "Phantomlight",
+    "Price": 2.49
+  },
+  {
+    "Purchase ID": 545,
+    "SN": "Jiskadarst60",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 66,
+    "Item Name": "Victor Iron Spikes",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 546,
+    "SN": "Sondadar26",
+    "Age": 9,
+    "Gender": "Male",
+    "Item ID": 159,
+    "Item Name": "Oathbreaker, Spellblade of Trials",
+    "Price": 3.08
+  },
+  {
+    "Purchase ID": 547,
+    "SN": "Malarrian73",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 135,
+    "Item Name": "Warped Diamond Crusader",
+    "Price": 1.4
+  },
+  {
+    "Purchase ID": 548,
+    "SN": "Yathecal82",
+    "Age": 20,
+    "Gender": "Female",
+    "Item ID": 75,
+    "Item Name": "Brutality Ivory Warmace",
+    "Price": 2.42
+  },
+  {
+    "Purchase ID": 549,
+    "SN": "Maluncil97",
+    "Age": 25,
+    "Gender": "Other / Non-Disclosed",
+    "Item ID": 146,
+    "Item Name": "Warped Iron Scimitar",
+    "Price": 3.1
+  },
+  {
+    "Purchase ID": 550,
+    "SN": "Ilunyon70",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 60,
+    "Item Name": "Wolf",
+    "Price": 3.54
+  },
+  {
+    "Purchase ID": 551,
+    "SN": "Iri67",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 160,
+    "Item Name": "Azurewrath",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 552,
+    "SN": "Hiaral50",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 155,
+    "Item Name": "War-Forged Gold Deflector",
+    "Price": 1.01
+  },
+  {
+    "Purchase ID": 553,
+    "SN": "Yadam35",
+    "Age": 28,
+    "Gender": "Male",
+    "Item ID": 2,
+    "Item Name": "Verdict",
+    "Price": 2.48
+  },
+  {
+    "Purchase ID": 554,
+    "SN": "Dyally87",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 63,
+    "Item Name": "Stormfury Mace",
+    "Price": 4.99
+  },
+  {
+    "Purchase ID": 555,
+    "SN": "Pheosurllorin41",
+    "Age": 23,
+    "Gender": "Female",
+    "Item ID": 7,
+    "Item Name": "Thorn, Satchel of Dark Souls",
+    "Price": 1.33
+  },
+  {
+    "Purchase ID": 556,
+    "SN": "Frichocesta66",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 64,
+    "Item Name": "Fusion Pummel",
+    "Price": 4.82
+  },
+  {
+    "Purchase ID": 557,
+    "SN": "Frichaya88",
+    "Age": 42,
+    "Gender": "Male",
+    "Item ID": 8,
+    "Item Name": "Purgatory, Gem of Regret",
+    "Price": 3.93
+  },
+  {
+    "Purchase ID": 558,
+    "SN": "Lassadarsda57",
+    "Age": 25,
+    "Gender": "Female",
+    "Item ID": 108,
+    "Item Name": "Extraction, Quickblade Of Trembling Hands",
+    "Price": 3.53
+  },
+  {
+    "Purchase ID": 559,
+    "SN": "Iasrira89",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 34,
+    "Item Name": "Retribution Axe",
+    "Price": 2.22
+  },
+  {
+    "Purchase ID": 560,
+    "SN": "Zontibe81",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 2,
+    "Item Name": "Verdict",
+    "Price": 2.48
+  },
+  {
+    "Purchase ID": 561,
+    "SN": "Chanastnya43",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 35,
+    "Item Name": "Heartless Bone Dualblade",
+    "Price": 3.45
+  },
+  {
+    "Purchase ID": 562,
+    "SN": "Marynde90",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 83,
+    "Item Name": "Lifebender",
+    "Price": 3.33
+  },
+  {
+    "Purchase ID": 563,
+    "SN": "Isri34",
+    "Age": 38,
+    "Gender": "Male",
+    "Item ID": 142,
+    "Item Name": "Righteous Might",
+    "Price": 2.62
+  },
+  {
+    "Purchase ID": 564,
+    "SN": "Chamjask73",
+    "Age": 22,
+    "Gender": "Female",
+    "Item ID": 52,
+    "Item Name": "Hatred",
+    "Price": 4.84
+  },
+  {
+    "Purchase ID": 565,
+    "SN": "Assastnya25",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 179,
+    "Item Name": "Wolf, Promise of the Moonwalker",
+    "Price": 4.48
+  },
+  {
+    "Purchase ID": 566,
+    "SN": "Ardonmol96",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 31,
+    "Item Name": "Trickster",
+    "Price": 1.55
+  },
+  {
+    "Purchase ID": 567,
+    "SN": "Lassirrasda85",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 102,
+    "Item Name": "Avenger",
+    "Price": 3.44
+  },
+  {
+    "Purchase ID": 568,
+    "SN": "Syally44",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 123,
+    "Item Name": "Twilight's Carver",
+    "Price": 2.28
+  },
+  {
+    "Purchase ID": 569,
+    "SN": "Baelollodeu94",
+    "Age": 20,
+    "Gender": "Female",
+    "Item ID": 87,
+    "Item Name": "Deluge, Edge of the West",
+    "Price": 4.43
+  },
+  {
+    "Purchase ID": 570,
+    "SN": "Chadossa56",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 69,
+    "Item Name": "Frenzy, Defender of the Harvest",
+    "Price": 1.98
+  },
+  {
+    "Purchase ID": 571,
+    "SN": "Poshilsa82",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 165,
+    "Item Name": "Bone Crushing Silver Skewer",
+    "Price": 4.86
+  },
+  {
+    "Purchase ID": 572,
+    "SN": "Yoishirrala98",
+    "Age": 17,
+    "Gender": "Female",
+    "Item ID": 145,
+    "Item Name": "Fiery Glass Crusader",
+    "Price": 4.58
+  },
+  {
+    "Purchase ID": 573,
+    "SN": "Sundista37",
+    "Age": 26,
+    "Gender": "Male",
+    "Item ID": 156,
+    "Item Name": "Soul-Forged Steel Shortsword",
+    "Price": 1.77
+  },
+  {
+    "Purchase ID": 574,
+    "SN": "Undare39",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 131,
+    "Item Name": "Fury",
+    "Price": 1.44
+  },
+  {
+    "Purchase ID": 575,
+    "SN": "Sondadar26",
+    "Age": 9,
+    "Gender": "Male",
+    "Item ID": 137,
+    "Item Name": "Aetherius, Boon of the Blessed",
+    "Price": 3.39
+  },
+  {
+    "Purchase ID": 576,
+    "SN": "Ilassa51",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 34,
+    "Item Name": "Retribution Axe",
+    "Price": 2.22
+  },
+  {
+    "Purchase ID": 577,
+    "SN": "Filurarn35",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 128,
+    "Item Name": "Blazeguard, Reach of Eternity",
+    "Price": 4.91
+  },
+  {
+    "Purchase ID": 578,
+    "SN": "Aerithllora36",
+    "Age": 29,
+    "Gender": "Female",
+    "Item ID": 153,
+    "Item Name": "Mercenary Sabre",
+    "Price": 3.74
+  },
+  {
+    "Purchase ID": 579,
+    "SN": "Marilsa69",
+    "Age": 25,
+    "Gender": "Female",
+    "Item ID": 12,
+    "Item Name": "Dawne",
+    "Price": 1.02
+  },
+  {
+    "Purchase ID": 580,
+    "SN": "Tyida79",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 178,
+    "Item Name": "Oathbreaker, Last Hope of the Breaking Storm",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 581,
+    "SN": "Phaestycal84",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 117,
+    "Item Name": "Heartstriker, Legacy of the Light",
+    "Price": 1.79
+  },
+  {
+    "Purchase ID": 582,
+    "SN": "Irilis75",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 19,
+    "Item Name": "Pursuit, Cudgel of Necromancy",
+    "Price": 1.02
+  },
+  {
+    "Purchase ID": 583,
+    "SN": "Aeralstical35",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 49,
+    "Item Name": "The Oculus, Token of Lost Worlds",
+    "Price": 2.96
+  },
+  {
+    "Purchase ID": 584,
+    "SN": "Aelin32",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 115,
+    "Item Name": "Spectral Diamond Doomblade",
+    "Price": 2.04
+  },
+  {
+    "Purchase ID": 585,
+    "SN": "Chanirrala39",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 85,
+    "Item Name": "Malificent Bag",
+    "Price": 1.75
+  },
+  {
+    "Purchase ID": 586,
+    "SN": "Chanirra79",
+    "Age": 23,
+    "Gender": "Female",
+    "Item ID": 155,
+    "Item Name": "War-Forged Gold Deflector",
+    "Price": 1.01
+  },
+  {
+    "Purchase ID": 587,
+    "SN": "Assirra56",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 141,
+    "Item Name": "Persuasion",
+    "Price": 3.19
+  },
+  {
+    "Purchase ID": 588,
+    "SN": "Lassadarsda57",
+    "Age": 25,
+    "Gender": "Female",
+    "Item ID": 15,
+    "Item Name": "Soul Infused Crystal",
+    "Price": 2.96
+  },
+  {
+    "Purchase ID": 589,
+    "SN": "Seolollo93",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 106,
+    "Item Name": "Crying Steel Sickle",
+    "Price": 3.41
+  },
+  {
+    "Purchase ID": 590,
+    "SN": "Iathem87",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 141,
+    "Item Name": "Persuasion",
+    "Price": 3.19
+  },
+  {
+    "Purchase ID": 591,
+    "SN": "Iasurriacal29",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 113,
+    "Item Name": "Solitude's Reaver",
+    "Price": 4.07
+  },
+  {
+    "Purchase ID": 592,
+    "SN": "Lisast98",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 170,
+    "Item Name": "Shadowsteel",
+    "Price": 3.97
+  },
+  {
+    "Purchase ID": 593,
+    "SN": "Lassimla92",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 128,
+    "Item Name": "Blazeguard, Reach of Eternity",
+    "Price": 4.91
+  },
+  {
+    "Purchase ID": 594,
+    "SN": "Filrion59",
+    "Age": 27,
+    "Gender": "Male",
+    "Item ID": 89,
+    "Item Name": "Blazefury, Protector of Delusions",
+    "Price": 4.64
+  },
+  {
+    "Purchase ID": 595,
+    "SN": "Yathedeu43",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 55,
+    "Item Name": "Vindictive Glass Edge",
+    "Price": 2.27
+  },
+  {
+    "Purchase ID": 596,
+    "SN": "Seudaillorap38",
+    "Age": 27,
+    "Gender": "Male",
+    "Item ID": 146,
+    "Item Name": "Warped Iron Scimitar",
+    "Price": 3.1
+  },
+  {
+    "Purchase ID": 597,
+    "SN": "Quinarap53",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 86,
+    "Item Name": "Stormfury Lantern",
+    "Price": 2.27
+  },
+  {
+    "Purchase ID": 598,
+    "SN": "Halaecal66",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 111,
+    "Item Name": "Misery's End",
+    "Price": 4.89
+  },
+  {
+    "Purchase ID": 599,
+    "SN": "Hiaral50",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 13,
+    "Item Name": "Serenity",
+    "Price": 1.41
+  },
+  {
+    "Purchase ID": 600,
+    "SN": "Iskosian40",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 166,
+    "Item Name": "Thirsty Iron Reaver",
+    "Price": 3.07
+  },
+  {
+    "Purchase ID": 601,
+    "SN": "Ilastilis78",
+    "Age": 11,
+    "Gender": "Male",
+    "Item ID": 93,
+    "Item Name": "Apocalyptic Battlescythe",
+    "Price": 1.97
+  },
+  {
+    "Purchase ID": 602,
+    "SN": "Seosrim97",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 65,
+    "Item Name": "Conqueror Adamantite Mace",
+    "Price": 4.24
+  },
+  {
+    "Purchase ID": 603,
+    "SN": "Lisosia93",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 141,
+    "Item Name": "Persuasion",
+    "Price": 3.19
+  },
+  {
+    "Purchase ID": 604,
+    "SN": "Lisim51",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 34,
+    "Item Name": "Retribution Axe",
+    "Price": 2.22
+  },
+  {
+    "Purchase ID": 605,
+    "SN": "Farrian71",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 159,
+    "Item Name": "Oathbreaker, Spellblade of Trials",
+    "Price": 3.08
+  },
+  {
+    "Purchase ID": 606,
+    "SN": "Nitherian58",
+    "Age": 28,
+    "Gender": "Male",
+    "Item ID": 123,
+    "Item Name": "Twilight's Carver",
+    "Price": 2.28
+  },
+  {
+    "Purchase ID": 607,
+    "SN": "Rithe53",
+    "Age": 15,
+    "Gender": "Female",
+    "Item ID": 80,
+    "Item Name": "Dreamsong",
+    "Price": 3.39
+  },
+  {
+    "Purchase ID": 608,
+    "SN": "Leyirra83",
+    "Age": 24,
+    "Gender": "Female",
+    "Item ID": 132,
+    "Item Name": "Persuasion",
+    "Price": 3.33
+  },
+  {
+    "Purchase ID": 609,
+    "SN": "Lisosia93",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 40,
+    "Item Name": "Second Chance",
+    "Price": 2.52
+  },
+  {
+    "Purchase ID": 610,
+    "SN": "Frichossala54",
+    "Age": 7,
+    "Gender": "Male",
+    "Item ID": 159,
+    "Item Name": "Oathbreaker, Spellblade of Trials",
+    "Price": 3.08
+  },
+  {
+    "Purchase ID": 611,
+    "SN": "Chamjaskya75",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 176,
+    "Item Name": "Relentless Iron Skewer",
+    "Price": 2.84
+  },
+  {
+    "Purchase ID": 612,
+    "SN": "Silaera56",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 52,
+    "Item Name": "Hatred",
+    "Price": 4.84
+  },
+  {
+    "Purchase ID": 613,
+    "SN": "Quanrion96",
+    "Age": 21,
+    "Gender": "Female",
+    "Item ID": 159,
+    "Item Name": "Oathbreaker, Spellblade of Trials",
+    "Price": 3.08
+  },
+  {
+    "Purchase ID": 614,
+    "SN": "Chadadarla74",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 65,
+    "Item Name": "Conqueror Adamantite Mace",
+    "Price": 4.24
+  },
+  {
+    "Purchase ID": 615,
+    "SN": "Sida61",
+    "Age": 20,
+    "Gender": "Female",
+    "Item ID": 72,
+    "Item Name": "Winter's Bite",
+    "Price": 3.77
+  },
+  {
+    "Purchase ID": 616,
+    "SN": "Tyaelaelis94",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 78,
+    "Item Name": "Glimmer, Ender of the Moon",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 617,
+    "SN": "Chamimla85",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 40,
+    "Item Name": "Second Chance",
+    "Price": 2.52
+  },
+  {
+    "Purchase ID": 618,
+    "SN": "Aisurdru79",
+    "Age": 29,
+    "Gender": "Female",
+    "Item ID": 183,
+    "Item Name": "Dragon's Greatsword",
+    "Price": 1.09
+  },
+  {
+    "Purchase ID": 619,
+    "SN": "Quanenrian83",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 55,
+    "Item Name": "Vindictive Glass Edge",
+    "Price": 2.27
+  },
+  {
+    "Purchase ID": 620,
+    "SN": "Undosian34",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 109,
+    "Item Name": "Downfall, Scalpel Of The Emperor",
+    "Price": 4.76
+  },
+  {
+    "Purchase ID": 621,
+    "SN": "Seosrim97",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 26,
+    "Item Name": "Unholy Wand",
+    "Price": 1.12
+  },
+  {
+    "Purchase ID": 622,
+    "SN": "Chanirra64",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 129,
+    "Item Name": "Fate, Vengeance of Eternal Justice",
+    "Price": 1.54
+  },
+  {
+    "Purchase ID": 623,
+    "SN": "Iral74",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 114,
+    "Item Name": "Yearning Mageblade",
+    "Price": 3.82
+  },
+  {
+    "Purchase ID": 624,
+    "SN": "Marynde90",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 29,
+    "Item Name": "Chaos, Ender of the End",
+    "Price": 1.98
+  },
+  {
+    "Purchase ID": 625,
+    "SN": "Yadaisuir65",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 133,
+    "Item Name": "Faith's Scimitar",
+    "Price": 4.09
+  },
+  {
+    "Purchase ID": 626,
+    "SN": "Syathecal44",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 75,
+    "Item Name": "Brutality Ivory Warmace",
+    "Price": 2.42
+  },
+  {
+    "Purchase ID": 627,
+    "SN": "Arin32",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 178,
+    "Item Name": "Oathbreaker, Last Hope of the Breaking Storm",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 628,
+    "SN": "Hada39",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 167,
+    "Item Name": "Malice, Legacy of the Queen",
+    "Price": 3.61
+  },
+  {
+    "Purchase ID": 629,
+    "SN": "Maluncil97",
+    "Age": 25,
+    "Gender": "Other / Non-Disclosed",
+    "Item ID": 107,
+    "Item Name": "Splitter, Foe Of Subtlety",
+    "Price": 2.18
+  },
+  {
+    "Purchase ID": 630,
+    "SN": "Aelaria33",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 171,
+    "Item Name": "Scalpel",
+    "Price": 1.79
+  },
+  {
+    "Purchase ID": 631,
+    "SN": "Assassa81",
+    "Age": 27,
+    "Gender": "Male",
+    "Item ID": 137,
+    "Item Name": "Aetherius, Boon of the Blessed",
+    "Price": 3.39
+  },
+  {
+    "Purchase ID": 632,
+    "SN": "Filrion83",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 160,
+    "Item Name": "Azurewrath",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 633,
+    "SN": "Chanastnya43",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 80,
+    "Item Name": "Dreamsong",
+    "Price": 3.39
+  },
+  {
+    "Purchase ID": 634,
+    "SN": "Eoral49",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 103,
+    "Item Name": "Singed Scalpel",
+    "Price": 4.35
+  },
+  {
+    "Purchase ID": 635,
+    "SN": "Ali84",
+    "Age": 29,
+    "Gender": "Male",
+    "Item ID": 4,
+    "Item Name": "Bloodlord's Fetish",
+    "Price": 1.7
+  },
+  {
+    "Purchase ID": 636,
+    "SN": "Chanirrala39",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 78,
+    "Item Name": "Glimmer, Ender of the Moon",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 637,
+    "SN": "Airi27",
+    "Age": 24,
+    "Gender": "Other / Non-Disclosed",
+    "Item ID": 163,
+    "Item Name": "Thunderfury Scimitar",
+    "Price": 3.45
+  },
+  {
+    "Purchase ID": 638,
+    "SN": "Eurisuru25",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 22,
+    "Item Name": "Amnesia",
+    "Price": 2.18
+  },
+  {
+    "Purchase ID": 639,
+    "SN": "Liawista80",
+    "Age": 27,
+    "Gender": "Male",
+    "Item ID": 86,
+    "Item Name": "Stormfury Lantern",
+    "Price": 2.27
+  },
+  {
+    "Purchase ID": 640,
+    "SN": "Sausosia74",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 108,
+    "Item Name": "Extraction, Quickblade Of Trembling Hands",
+    "Price": 3.53
+  },
+  {
+    "Purchase ID": 641,
+    "SN": "Lisirra58",
+    "Age": 20,
+    "Gender": "Female",
+    "Item ID": 49,
+    "Item Name": "The Oculus, Token of Lost Worlds",
+    "Price": 2.96
+  },
+  {
+    "Purchase ID": 642,
+    "SN": "Chamadarsda63",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 127,
+    "Item Name": "Heartseeker, Reaver of Souls",
+    "Price": 3.92
+  },
+  {
+    "Purchase ID": 643,
+    "SN": "Haestyphos66",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 93,
+    "Item Name": "Apocalyptic Battlescythe",
+    "Price": 1.97
+  },
+  {
+    "Purchase ID": 644,
+    "SN": "Bartassaya73",
+    "Age": 26,
+    "Gender": "Male",
+    "Item ID": 22,
+    "Item Name": "Amnesia",
+    "Price": 2.18
+  },
+  {
+    "Purchase ID": 645,
+    "SN": "Phaedasurap84",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 114,
+    "Item Name": "Yearning Mageblade",
+    "Price": 3.82
+  },
+  {
+    "Purchase ID": 646,
+    "SN": "Mindimnya67",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 116,
+    "Item Name": "Renewed Skeletal Katana",
+    "Price": 4.18
+  },
+  {
+    "Purchase ID": 647,
+    "SN": "Chadjask85",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 61,
+    "Item Name": "Ragnarok",
+    "Price": 3.87
+  },
+  {
+    "Purchase ID": 648,
+    "SN": "Eustyria89",
+    "Age": 39,
+    "Gender": "Male",
+    "Item ID": 150,
+    "Item Name": "Deathraze",
+    "Price": 2.85
+  },
+  {
+    "Purchase ID": 649,
+    "SN": "Iskim66",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 67,
+    "Item Name": "Celeste, Incarnation of the Corrupted",
+    "Price": 3.46
+  },
+  {
+    "Purchase ID": 650,
+    "SN": "Smaistysu35",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 161,
+    "Item Name": "Devine",
+    "Price": 1.76
+  },
+  {
+    "Purchase ID": 651,
+    "SN": "Lirtilsa72",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 132,
+    "Item Name": "Persuasion",
+    "Price": 3.33
+  },
+  {
+    "Purchase ID": 652,
+    "SN": "Pheosrinudeu70",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 75,
+    "Item Name": "Brutality Ivory Warmace",
+    "Price": 2.42
+  },
+  {
+    "Purchase ID": 653,
+    "SN": "Chamast86",
+    "Age": 32,
+    "Gender": "Female",
+    "Item ID": 53,
+    "Item Name": "Vengeance Cleaver",
+    "Price": 2.05
+  },
+  {
+    "Purchase ID": 654,
+    "SN": "Tyialisudeu65",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 19,
+    "Item Name": "Pursuit, Cudgel of Necromancy",
+    "Price": 1.02
+  },
+  {
+    "Purchase ID": 655,
+    "SN": "Lirtassan78",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 20,
+    "Item Name": "Netherbane",
+    "Price": 3.27
+  },
+  {
+    "Purchase ID": 656,
+    "SN": "Ethrasyon38",
+    "Age": 26,
+    "Gender": "Male",
+    "Item ID": 115,
+    "Item Name": "Spectral Diamond Doomblade",
+    "Price": 2.04
+  },
+  {
+    "Purchase ID": 657,
+    "SN": "Silaera56",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 19,
+    "Item Name": "Pursuit, Cudgel of Necromancy",
+    "Price": 1.02
+  },
+  {
+    "Purchase ID": 658,
+    "SN": "Quilassa66",
+    "Age": 7,
+    "Gender": "Female",
+    "Item ID": 178,
+    "Item Name": "Oathbreaker, Last Hope of the Breaking Storm",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 659,
+    "SN": "Lisassasda39",
+    "Age": 36,
+    "Gender": "Male",
+    "Item ID": 140,
+    "Item Name": "Striker",
+    "Price": 2.94
+  },
+  {
+    "Purchase ID": 660,
+    "SN": "Isri34",
+    "Age": 38,
+    "Gender": "Male",
+    "Item ID": 103,
+    "Item Name": "Singed Scalpel",
+    "Price": 4.35
+  },
+  {
+    "Purchase ID": 661,
+    "SN": "Strithenu87",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 60,
+    "Item Name": "Wolf",
+    "Price": 3.54
+  },
+  {
+    "Purchase ID": 662,
+    "SN": "Mindilsa60",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 0,
+    "Item Name": "Splinter",
+    "Price": 1.28
+  },
+  {
+    "Purchase ID": 663,
+    "SN": "Lalossa38",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 72,
+    "Item Name": "Winter's Bite",
+    "Price": 3.77
+  },
+  {
+    "Purchase ID": 664,
+    "SN": "Chamistast30",
+    "Age": 31,
+    "Gender": "Male",
+    "Item ID": 47,
+    "Item Name": "Alpha, Reach of Ending Hope",
+    "Price": 3.58
+  },
+  {
+    "Purchase ID": 665,
+    "SN": "Hariphos58",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 73,
+    "Item Name": "Ritual Mace",
+    "Price": 2.05
+  },
+  {
+    "Purchase ID": 666,
+    "SN": "Assilsan72",
+    "Age": 20,
+    "Gender": "Female",
+    "Item ID": 82,
+    "Item Name": "Nirvana",
+    "Price": 4.9
+  },
+  {
+    "Purchase ID": 667,
+    "SN": "Inasuir29",
+    "Age": 40,
+    "Gender": "Female",
+    "Item ID": 66,
+    "Item Name": "Victor Iron Spikes",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 668,
+    "SN": "Chanilsasda38",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 40,
+    "Item Name": "Second Chance",
+    "Price": 2.52
+  },
+  {
+    "Purchase ID": 669,
+    "SN": "Mindesi74",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 45,
+    "Item Name": "Glinting Glass Edge",
+    "Price": 3.85
+  },
+  {
+    "Purchase ID": 670,
+    "SN": "Aiduecal76",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 120,
+    "Item Name": "Agatha",
+    "Price": 3.08
+  },
+  {
+    "Purchase ID": 671,
+    "SN": "Caesrinusuir82",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 152,
+    "Item Name": "Darkheart",
+    "Price": 1.74
+  },
+  {
+    "Purchase ID": 672,
+    "SN": "Ililsan66",
+    "Age": 9,
+    "Gender": "Male",
+    "Item ID": 122,
+    "Item Name": "Unending Tyranny",
+    "Price": 2.85
+  },
+  {
+    "Purchase ID": 673,
+    "SN": "Idacal95",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 130,
+    "Item Name": "Alpha",
+    "Price": 2.07
+  },
+  {
+    "Purchase ID": 674,
+    "SN": "Aeral68",
+    "Age": 43,
+    "Gender": "Male",
+    "Item ID": 77,
+    "Item Name": "Piety, Guardian of Riddles",
+    "Price": 4
+  },
+  {
+    "Purchase ID": 675,
+    "SN": "Lirtastsda29",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 144,
+    "Item Name": "Blood Infused Guardian",
+    "Price": 1.94
+  },
+  {
+    "Purchase ID": 676,
+    "SN": "Idastidru52",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 111,
+    "Item Name": "Misery's End",
+    "Price": 4.89
+  },
+  {
+    "Purchase ID": 677,
+    "SN": "Tyarithn67",
+    "Age": 27,
+    "Gender": "Male",
+    "Item ID": 32,
+    "Item Name": "Orenmir",
+    "Price": 1.14
+  },
+  {
+    "Purchase ID": 678,
+    "SN": "Rarallo90",
+    "Age": 33,
+    "Gender": "Male",
+    "Item ID": 108,
+    "Item Name": "Extraction, Quickblade Of Trembling Hands",
+    "Price": 3.53
+  },
+  {
+    "Purchase ID": 679,
+    "SN": "Iarilis73",
+    "Age": 10,
+    "Gender": "Male",
+    "Item ID": 153,
+    "Item Name": "Mercenary Sabre",
+    "Price": 3.74
+  },
+  {
+    "Purchase ID": 680,
+    "SN": "Asty82",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 96,
+    "Item Name": "Blood-Forged Skeletal Spine",
+    "Price": 3.09
+  },
+  {
+    "Purchase ID": 681,
+    "SN": "Yalaeria91",
+    "Age": 33,
+    "Gender": "Male",
+    "Item ID": 28,
+    "Item Name": "Flux, Destroyer of Due Diligence",
+    "Price": 1.06
+  },
+  {
+    "Purchase ID": 682,
+    "SN": "Lirtossa60",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 135,
+    "Item Name": "Warped Diamond Crusader",
+    "Price": 1.4
+  },
+  {
+    "Purchase ID": 683,
+    "SN": "Ialallo29",
+    "Age": 15,
+    "Gender": "Female",
+    "Item ID": 145,
+    "Item Name": "Fiery Glass Crusader",
+    "Price": 4.58
+  },
+  {
+    "Purchase ID": 684,
+    "SN": "Phaestycal84",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 169,
+    "Item Name": "Interrogator, Blood Blade of the Queen",
+    "Price": 2.18
+  },
+  {
+    "Purchase ID": 685,
+    "SN": "Halaecal66",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 34,
+    "Item Name": "Retribution Axe",
+    "Price": 2.22
+  },
+  {
+    "Purchase ID": 686,
+    "SN": "Chadjask77",
+    "Age": 8,
+    "Gender": "Male",
+    "Item ID": 147,
+    "Item Name": "Hellreaver, Heirloom of Inception",
+    "Price": 4.93
+  },
+  {
+    "Purchase ID": 687,
+    "SN": "Ealiril69",
+    "Age": 35,
+    "Gender": "Male",
+    "Item ID": 78,
+    "Item Name": "Glimmer, Ender of the Moon",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 688,
+    "SN": "Saistyphos30",
+    "Age": 35,
+    "Gender": "Male",
+    "Item ID": 29,
+    "Item Name": "Chaos, Ender of the End",
+    "Price": 1.98
+  },
+  {
+    "Purchase ID": 689,
+    "SN": "Undjaskla97",
+    "Age": 33,
+    "Gender": "Male",
+    "Item ID": 76,
+    "Item Name": "Haunted Bronzed Bludgeon",
+    "Price": 3.15
+  },
+  {
+    "Purchase ID": 690,
+    "SN": "Idaidil28",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 68,
+    "Item Name": "Storm-Weaver, Slayer of Inception",
+    "Price": 4.32
+  },
+  {
+    "Purchase ID": 691,
+    "SN": "Lirtistanya48",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 112,
+    "Item Name": "Worldbreaker",
+    "Price": 2.6
+  },
+  {
+    "Purchase ID": 692,
+    "SN": "Quaecjask96",
+    "Age": 9,
+    "Gender": "Male",
+    "Item ID": 78,
+    "Item Name": "Glimmer, Ender of the Moon",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 693,
+    "SN": "Firatan58",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 88,
+    "Item Name": "Emberling, Defender of Delusions",
+    "Price": 3.75
+  },
+  {
+    "Purchase ID": 694,
+    "SN": "Mindesi74",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 164,
+    "Item Name": "Exiled Doomblade",
+    "Price": 1.63
+  },
+  {
+    "Purchase ID": 695,
+    "SN": "Lamil79",
+    "Age": 38,
+    "Gender": "Male",
+    "Item ID": 111,
+    "Item Name": "Misery's End",
+    "Price": 4.89
+  },
+  {
+    "Purchase ID": 696,
+    "SN": "Yarolwen77",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 87,
+    "Item Name": "Deluge, Edge of the West",
+    "Price": 4.43
+  },
+  {
+    "Purchase ID": 697,
+    "SN": "Tyaelistidru84",
+    "Age": 19,
+    "Gender": "Female",
+    "Item ID": 1,
+    "Item Name": "Crucifer",
+    "Price": 3.26
+  },
+  {
+    "Purchase ID": 698,
+    "SN": "Yarithrin84",
+    "Age": 30,
+    "Gender": "Female",
+    "Item ID": 58,
+    "Item Name": "Freak's Bite, Favor of Holy Might",
+    "Price": 4.14
+  },
+  {
+    "Purchase ID": 699,
+    "SN": "Tyaelly53",
+    "Age": 17,
+    "Gender": "Female",
+    "Item ID": 130,
+    "Item Name": "Alpha",
+    "Price": 2.07
+  },
+  {
+    "Purchase ID": 700,
+    "SN": "Chanosia60",
+    "Age": 31,
+    "Gender": "Male",
+    "Item ID": 90,
+    "Item Name": "Betrayer",
+    "Price": 2.94
+  },
+  {
+    "Purchase ID": 701,
+    "SN": "Phiristi62",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 10,
+    "Item Name": "Sleepwalker",
+    "Price": 1.79
+  },
+  {
+    "Purchase ID": 702,
+    "SN": "Ililsasya43",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 12,
+    "Item Name": "Dawne",
+    "Price": 1.02
+  },
+  {
+    "Purchase ID": 703,
+    "SN": "Aithelis62",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 160,
+    "Item Name": "Azurewrath",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 704,
+    "SN": "Undotesta33",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 95,
+    "Item Name": "Singed Onyx Warscythe",
+    "Price": 4.74
+  },
+  {
+    "Purchase ID": 705,
+    "SN": "Aelidru27",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 183,
+    "Item Name": "Dragon's Greatsword",
+    "Price": 1.09
+  },
+  {
+    "Purchase ID": 706,
+    "SN": "Chanossanya44",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 178,
+    "Item Name": "Oathbreaker, Last Hope of the Breaking Storm",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 707,
+    "SN": "Maradarnya40",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 38,
+    "Item Name": "The Void, Vengeance of Dark Magic",
+    "Price": 2.37
+  },
+  {
+    "Purchase ID": 708,
+    "SN": "Lirtastsya71",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 67,
+    "Item Name": "Celeste, Incarnation of the Corrupted",
+    "Price": 3.46
+  },
+  {
+    "Purchase ID": 709,
+    "SN": "Lisast87",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 75,
+    "Item Name": "Brutality Ivory Warmace",
+    "Price": 2.42
+  },
+  {
+    "Purchase ID": 710,
+    "SN": "Lisossa25",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 99,
+    "Item Name": "Expiration, Warscythe Of Lost Worlds",
+    "Price": 1.71
+  },
+  {
+    "Purchase ID": 711,
+    "SN": "Chadolyla44",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 94,
+    "Item Name": "Mourning Blade",
+    "Price": 3.49
+  },
+  {
+    "Purchase ID": 712,
+    "SN": "Lisilsa62",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 92,
+    "Item Name": "Final Critic",
+    "Price": 4.88
+  },
+  {
+    "Purchase ID": 713,
+    "SN": "Iasur80",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 46,
+    "Item Name": "Hopeless Ebon Dualblade",
+    "Price": 1.33
+  },
+  {
+    "Purchase ID": 714,
+    "SN": "Tyidaim51",
+    "Age": 16,
+    "Gender": "Female",
+    "Item ID": 103,
+    "Item Name": "Singed Scalpel",
+    "Price": 4.35
+  },
+  {
+    "Purchase ID": 715,
+    "SN": "Eusurdeu49",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 8,
+    "Item Name": "Purgatory, Gem of Regret",
+    "Price": 3.93
+  },
+  {
+    "Purchase ID": 716,
+    "SN": "Saena89",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 106,
+    "Item Name": "Crying Steel Sickle",
+    "Price": 3.41
+  },
+  {
+    "Purchase ID": 717,
+    "SN": "Chanilsast61",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 177,
+    "Item Name": "Winterthorn, Defender of Shifting Worlds",
+    "Price": 2.08
+  },
+  {
+    "Purchase ID": 718,
+    "SN": "Ilirrasda54",
+    "Age": 37,
+    "Gender": "Male",
+    "Item ID": 20,
+    "Item Name": "Netherbane",
+    "Price": 3.27
+  },
+  {
+    "Purchase ID": 719,
+    "SN": "Sundassa93",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 158,
+    "Item Name": "Darkheart, Butcher of the Champion",
+    "Price": 2.45
+  },
+  {
+    "Purchase ID": 720,
+    "SN": "Aidai73",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 159,
+    "Item Name": "Oathbreaker, Spellblade of Trials",
+    "Price": 3.08
+  },
+  {
+    "Purchase ID": 721,
+    "SN": "Indirrian56",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 156,
+    "Item Name": "Soul-Forged Steel Shortsword",
+    "Price": 1.77
+  },
+  {
+    "Purchase ID": 722,
+    "SN": "Ilarin91",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 92,
+    "Item Name": "Final Critic",
+    "Price": 4.88
+  },
+  {
+    "Purchase ID": 723,
+    "SN": "Lisista54",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 177,
+    "Item Name": "Winterthorn, Defender of Shifting Worlds",
+    "Price": 2.08
+  },
+  {
+    "Purchase ID": 724,
+    "SN": "Lisassasta50",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 144,
+    "Item Name": "Blood Infused Guardian",
+    "Price": 1.94
+  },
+  {
+    "Purchase ID": 725,
+    "SN": "Malunil62",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 72,
+    "Item Name": "Winter's Bite",
+    "Price": 3.77
+  },
+  {
+    "Purchase ID": 726,
+    "SN": "Iduelis31",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 21,
+    "Item Name": "Souleater",
+    "Price": 1.1
+  },
+  {
+    "Purchase ID": 727,
+    "SN": "Yathecal82",
+    "Age": 20,
+    "Gender": "Female",
+    "Item ID": 104,
+    "Item Name": "Gladiator's Glaive",
+    "Price": 1.93
+  },
+  {
+    "Purchase ID": 728,
+    "SN": "Chanosiaya39",
+    "Age": 44,
+    "Gender": "Male",
+    "Item ID": 93,
+    "Item Name": "Apocalyptic Battlescythe",
+    "Price": 1.97
+  },
+  {
+    "Purchase ID": 729,
+    "SN": "Assylla81",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 74,
+    "Item Name": "Yearning Crusher",
+    "Price": 4.18
+  },
+  {
+    "Purchase ID": 730,
+    "SN": "Aidaira26",
+    "Age": 30,
+    "Gender": "Male",
+    "Item ID": 178,
+    "Item Name": "Oathbreaker, Last Hope of the Breaking Storm",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 731,
+    "SN": "Eudanu84",
+    "Age": 22,
+    "Gender": "Female",
+    "Item ID": 12,
+    "Item Name": "Dawne",
+    "Price": 1.02
+  },
+  {
+    "Purchase ID": 732,
+    "SN": "Eurithphos97",
+    "Age": 9,
+    "Gender": "Male",
+    "Item ID": 97,
+    "Item Name": "Swan Song, Gouger Of Terror",
+    "Price": 2.5
+  },
+  {
+    "Purchase ID": 733,
+    "SN": "Chamiman85",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 66,
+    "Item Name": "Victor Iron Spikes",
+    "Price": 4.4
+  },
+  {
+    "Purchase ID": 734,
+    "SN": "Arin32",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 165,
+    "Item Name": "Bone Crushing Silver Skewer",
+    "Price": 4.86
+  },
+  {
+    "Purchase ID": 735,
+    "SN": "Leetirraya83",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 54,
+    "Item Name": "Eternal Cleaver",
+    "Price": 2.5
+  },
+  {
+    "Purchase ID": 736,
+    "SN": "Tyialisti80",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 58,
+    "Item Name": "Freak's Bite, Favor of Holy Might",
+    "Price": 4.14
+  },
+  {
+    "Purchase ID": 737,
+    "SN": "Marundi65",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 149,
+    "Item Name": "Tranquility, Razor of Black Magic",
+    "Price": 1.75
+  },
+  {
+    "Purchase ID": 738,
+    "SN": "Eusur90",
+    "Age": 36,
+    "Gender": "Male",
+    "Item ID": 121,
+    "Item Name": "Massacre",
+    "Price": 1.6
+  },
+  {
+    "Purchase ID": 739,
+    "SN": "Mindirranya33",
+    "Age": 35,
+    "Gender": "Male",
+    "Item ID": 61,
+    "Item Name": "Ragnarok",
+    "Price": 3.87
+  },
+  {
+    "Purchase ID": 740,
+    "SN": "Reunasu60",
+    "Age": 22,
+    "Gender": "Female",
+    "Item ID": 127,
+    "Item Name": "Heartseeker, Reaver of Souls",
+    "Price": 3.92
+  },
+  {
+    "Purchase ID": 741,
+    "SN": "Phiallylis33",
+    "Age": 19,
+    "Gender": "Male",
+    "Item ID": 145,
+    "Item Name": "Fiery Glass Crusader",
+    "Price": 4.58
+  },
+  {
+    "Purchase ID": 742,
+    "SN": "Isty55",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 5,
+    "Item Name": "Putrid Fan",
+    "Price": 4.08
+  },
+  {
+    "Purchase ID": 743,
+    "SN": "Frichilsa31",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 110,
+    "Item Name": "Suspension",
+    "Price": 1.44
+  },
+  {
+    "Purchase ID": 744,
+    "SN": "Chanastst38",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 94,
+    "Item Name": "Mourning Blade",
+    "Price": 3.49
+  },
+  {
+    "Purchase ID": 745,
+    "SN": "Chanista95",
+    "Age": 39,
+    "Gender": "Male",
+    "Item ID": 37,
+    "Item Name": "Shadow Strike, Glory of Ending Hope",
+    "Price": 3.16
+  },
+  {
+    "Purchase ID": 746,
+    "SN": "Aellyria80",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 159,
+    "Item Name": "Oathbreaker, Spellblade of Trials",
+    "Price": 3.08
+  },
+  {
+    "Purchase ID": 747,
+    "SN": "Siarithria38",
+    "Age": 38,
+    "Gender": "Other / Non-Disclosed",
+    "Item ID": 146,
+    "Item Name": "Warped Iron Scimitar",
+    "Price": 3.1
+  },
+  {
+    "Purchase ID": 748,
+    "SN": "Rastynusuir31",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 55,
+    "Item Name": "Vindictive Glass Edge",
+    "Price": 2.27
+  },
+  {
+    "Purchase ID": 749,
+    "SN": "Chanossanya44",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 53,
+    "Item Name": "Vengeance Cleaver",
+    "Price": 2.05
+  },
+  {
+    "Purchase ID": 750,
+    "SN": "Iljask75",
+    "Age": 22,
+    "Gender": "Male",
+    "Item ID": 167,
+    "Item Name": "Malice, Legacy of the Queen",
+    "Price": 3.61
+  },
+  {
+    "Purchase ID": 751,
+    "SN": "Lisjaskan36",
+    "Age": 11,
+    "Gender": "Male",
+    "Item ID": 180,
+    "Item Name": "Stormcaller",
+    "Price": 3.36
+  },
+  {
+    "Purchase ID": 752,
+    "SN": "Mindjasksya61",
+    "Age": 17,
+    "Gender": "Male",
+    "Item ID": 112,
+    "Item Name": "Worldbreaker",
+    "Price": 2.6
+  },
+  {
+    "Purchase ID": 753,
+    "SN": "Frichirranya75",
+    "Age": 36,
+    "Gender": "Male",
+    "Item ID": 178,
+    "Item Name": "Oathbreaker, Last Hope of the Breaking Storm",
+    "Price": 4.23
+  },
+  {
+    "Purchase ID": 754,
+    "SN": "Pheosurllorin41",
+    "Age": 23,
+    "Gender": "Female",
+    "Item ID": 79,
+    "Item Name": "Alpha, Oath of Zeal",
+    "Price": 4.05
+  },
+  {
+    "Purchase ID": 755,
+    "SN": "Raesty92",
+    "Age": 12,
+    "Gender": "Male",
+    "Item ID": 76,
+    "Item Name": "Haunted Bronzed Bludgeon",
+    "Price": 3.15
+  },
+  {
+    "Purchase ID": 756,
+    "SN": "Ilast79",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 73,
+    "Item Name": "Ritual Mace",
+    "Price": 2.05
+  },
+  {
+    "Purchase ID": 757,
+    "SN": "Eratiel90",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 57,
+    "Item Name": "Despair, Favor of Due Diligence",
+    "Price": 4.6
+  },
+  {
+    "Purchase ID": 758,
+    "SN": "Iral74",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 182,
+    "Item Name": "Toothpick",
+    "Price": 4.03
+  },
+  {
+    "Purchase ID": 759,
+    "SN": "Tyaelorap29",
+    "Age": 25,
+    "Gender": "Male",
+    "Item ID": 72,
+    "Item Name": "Winter's Bite",
+    "Price": 3.77
+  },
+  {
+    "Purchase ID": 760,
+    "SN": "Aithelis62",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 44,
+    "Item Name": "Bonecarvin Battle Axe",
+    "Price": 2.38
+  },
+  {
+    "Purchase ID": 761,
+    "SN": "Assim27",
+    "Age": 45,
+    "Gender": "Male",
+    "Item ID": 17,
+    "Item Name": "Lazarus, Terror of the Earth",
+    "Price": 1.7
+  },
+  {
+    "Purchase ID": 762,
+    "SN": "Asur53",
+    "Age": 26,
+    "Gender": "Male",
+    "Item ID": 110,
+    "Item Name": "Suspension",
+    "Price": 1.44
+  },
+  {
+    "Purchase ID": 763,
+    "SN": "Lassilsala30",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 85,
+    "Item Name": "Malificent Bag",
+    "Price": 1.75
+  },
+  {
+    "Purchase ID": 764,
+    "SN": "Saedaiphos46",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 113,
+    "Item Name": "Solitude's Reaver",
+    "Price": 4.07
+  },
+  {
+    "Purchase ID": 765,
+    "SN": "Irith83",
+    "Age": 18,
+    "Gender": "Male",
+    "Item ID": 130,
+    "Item Name": "Alpha",
+    "Price": 2.07
+  },
+  {
+    "Purchase ID": 766,
+    "SN": "Aelastirin39",
+    "Age": 23,
+    "Gender": "Male",
+    "Item ID": 58,
+    "Item Name": "Freak's Bite, Favor of Holy Might",
+    "Price": 4.14
+  },
+  {
+    "Purchase ID": 767,
+    "SN": "Ilmol66",
+    "Age": 8,
+    "Gender": "Female",
+    "Item ID": 92,
+    "Item Name": "Final Critic",
+    "Price": 4.88
+  },
+  {
+    "Purchase ID": 768,
+    "SN": "Assassasta79",
+    "Age": 38,
+    "Gender": "Male",
+    "Item ID": 92,
+    "Item Name": "Final Critic",
+    "Price": 4.88
+  },
+  {
+    "Purchase ID": 769,
+    "SN": "Ilosian36",
+    "Age": 15,
+    "Gender": "Male",
+    "Item ID": 145,
+    "Item Name": "Fiery Glass Crusader",
+    "Price": 4.58
+  },
+  {
+    "Purchase ID": 770,
+    "SN": "Lirtosia63",
+    "Age": 34,
+    "Gender": "Male",
+    "Item ID": 12,
+    "Item Name": "Dawne",
+    "Price": 1.02
+  },
+  {
+    "Purchase ID": 771,
+    "SN": "Iskossasda43",
+    "Age": 16,
+    "Gender": "Male",
+    "Item ID": 25,
+    "Item Name": "Hero Cane",
+    "Price": 4.35
+  },
+  {
+    "Purchase ID": 772,
+    "SN": "Asur53",
+    "Age": 26,
+    "Gender": "Male",
+    "Item ID": 136,
+    "Item Name": "Ghastly Adamantite Protector",
+    "Price": 3.58
+  },
+  {
+    "Purchase ID": 773,
+    "SN": "Hala31",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 19,
+    "Item Name": "Pursuit, Cudgel of Necromancy",
+    "Price": 1.02
+  },
+  {
+    "Purchase ID": 774,
+    "SN": "Jiskjask80",
+    "Age": 11,
+    "Gender": "Male",
+    "Item ID": 101,
+    "Item Name": "Final Critic",
+    "Price": 4.19
+  },
+  {
+    "Purchase ID": 775,
+    "SN": "Aethedru70",
+    "Age": 21,
+    "Gender": "Female",
+    "Item ID": 60,
+    "Item Name": "Wolf",
+    "Price": 3.54
+  },
+  {
+    "Purchase ID": 776,
+    "SN": "Iral74",
+    "Age": 21,
+    "Gender": "Male",
+    "Item ID": 164,
+    "Item Name": "Exiled Doomblade",
+    "Price": 1.63
+  },
+  {
+    "Purchase ID": 777,
+    "SN": "Yathecal72",
+    "Age": 20,
+    "Gender": "Male",
+    "Item ID": 67,
+    "Item Name": "Celeste, Incarnation of the Corrupted",
+    "Price": 3.46
+  },
+  {
+    "Purchase ID": 778,
+    "SN": "Sisur91",
+    "Age": 7,
+    "Gender": "Male",
+    "Item ID": 101,
+    "Item Name": "Final Critic",
+    "Price": 4.19
+  },
+  {
+    "Purchase ID": 779,
+    "SN": "Ennrian78",
+    "Age": 24,
+    "Gender": "Male",
+    "Item ID": 50,
+    "Item Name": "Dawn",
+    "Price": 4.6
+  }
+]
